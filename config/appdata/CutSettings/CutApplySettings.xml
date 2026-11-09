@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <59E0E2E9-39C3-4A86-A6E6-A651F3334FCD>
+    <IsSelect>Y</IsSelect>
+    <CutResultUID>59E0E2E9-39C3-4A86-A6E6-A651F3334FCD</CutResultUID>
+    <Material>ДВП ламинированная клен56</Material>
+    <SettingsName>1</SettingsName>
+    <PostProcName>Holzma CadLink 3</PostProcName>
+    <IsLDW>Y</IsLDW>
+    <IsPostProc>Y</IsPostProc>
+    <IsStockOperation>Y</IsStockOperation>
+    <IsReceipt>Y</IsReceipt>
+    <IsBirka>Y</IsBirka>
+    <IsEstimate>N</IsEstimate>
+    <CanLDW>Y</CanLDW>
+    <CanPostProc>Y</CanPostProc>
+    <CanStockOperation>Y</CanStockOperation>
+    <CanReceipt>Y</CanReceipt>
+    <CanBirka>Y</CanBirka>
+    <CanEstimate>N</CanEstimate>
+  </59E0E2E9-39C3-4A86-A6E6-A651F3334FCD>
+  <C15D1516-1C0B-4024-8FE6-BF8E08FCCC47>
+    <IsSelect>Y</IsSelect>
+    <CutResultUID>C15D1516-1C0B-4024-8FE6-BF8E08FCCC47</CutResultUID>
+    <Material>ДСП бук 16</Material>
+    <SettingsName>1</SettingsName>
+    <PostProcName>Holzma CadLink 3</PostProcName>
+    <IsLDW>Y</IsLDW>
+    <IsPostProc>Y</IsPostProc>
+    <IsStockOperation>Y</IsStockOperation>
+    <IsReceipt>Y</IsReceipt>
+    <IsBirka>Y</IsBirka>
+    <IsEstimate>N</IsEstimate>
+    <CanLDW>Y</CanLDW>
+    <CanPostProc>Y</CanPostProc>
+    <CanStockOperation>Y</CanStockOperation>
+    <CanReceipt>Y</CanReceipt>
+    <CanBirka>Y</CanBirka>
+    <CanEstimate>N</CanEstimate>
+  </C15D1516-1C0B-4024-8FE6-BF8E08FCCC47>
+  <43EB0CBA-F635-4BAF-8B60-C026803039EF>
+    <IsSelect>Y</IsSelect>
+    <CutResultUID>43EB0CBA-F635-4BAF-8B60-C026803039EF</CutResultUID>
+    <Material>ДВП ламинированная клен56</Material>
+    <SettingsName>1</SettingsName>
+    <PostProcName>Holzma CadLink 3</PostProcName>
+    <IsLDW>Y</IsLDW>
+    <IsPostProc>Y</IsPostProc>
+    <IsStockOperation>Y</IsStockOperation>
+    <IsReceipt>Y</IsReceipt>
+    <IsBirka>Y</IsBirka>
+    <IsEstimate>N</IsEstimate>
+    <CanLDW>Y</CanLDW>
+    <CanPostProc>Y</CanPostProc>
+    <CanStockOperation>Y</CanStockOperation>
+    <CanReceipt>Y</CanReceipt>
+    <CanBirka>Y</CanBirka>
+    <CanEstimate>N</CanEstimate>
+  </43EB0CBA-F635-4BAF-8B60-C026803039EF>
+  <51EFD584-7B74-4DF0-8DF5-9E9C0B0C4EF1>
+    <IsSelect>Y</IsSelect>
+    <CutResultUID>51EFD584-7B74-4DF0-8DF5-9E9C0B0C4EF1</CutResultUID>
+    <Material>ДСП бук 16</Material>
+    <SettingsName>1</SettingsName>
+    <PostProcName>Holzma CadLink 3</PostProcName>
+    <IsLDW>Y</IsLDW>
+    <IsPostProc>Y</IsPostProc>
+    <IsStockOperation>Y</IsStockOperation>
+    <IsReceipt>Y</IsReceipt>
+    <IsBirka>Y</IsBirka>
+    <IsEstimate>N</IsEstimate>
+    <CanLDW>Y</CanLDW>
+    <CanPostProc>Y</CanPostProc>
+    <CanStockOperation>Y</CanStockOperation>
+    <CanReceipt>Y</CanReceipt>
+    <CanBirka>Y</CanBirka>
+    <CanEstimate>N</CanEstimate>
+  </51EFD584-7B74-4DF0-8DF5-9E9C0B0C4EF1>
+  <6D1E4AC9-54D7-4CA5-8623-08905B2F8B83>
+    <IsSelect>Y</IsSelect>
+    <CutResultUID>6D1E4AC9-54D7-4CA5-8623-08905B2F8B83</CutResultUID>
+    <Material>ДВП ламинированная клен56</Material>
+    <SettingsName>1</SettingsName>
+    <PostProcName>Holzma</PostProcName>
+    <IsLDW>Y</IsLDW>
+    <IsPostProc>Y</IsPostProc>
+    <IsStockOperation>Y</IsStockOperation>
+    <IsReceipt>Y</IsReceipt>
+    <IsBirka>Y</IsBirka>
+    <IsEstimate>N</IsEstimate>
+    <CanLDW>Y</CanLDW>
+    <CanPostProc>Y</CanPostProc>
+    <CanStockOperation>Y</CanStockOperation>
+    <CanReceipt>Y</CanReceipt>
+    <CanBirka>Y</CanBirka>
+    <CanEstimate>N</CanEstimate>
+  </6D1E4AC9-54D7-4CA5-8623-08905B2F8B83>
+  <009E8827-483D-4743-AB67-A3482DB27218>
+    <IsSelect>Y</IsSelect>
+    <CutResultUID>009E8827-483D-4743-AB67-A3482DB27218</CutResultUID>
+    <Material>ДСП бук 16</Material>
+    <SettingsName>1</SettingsName>
+    <PostProcName>Holzma</PostProcName>
+    <IsLDW>Y</IsLDW>
+    <IsPostProc>Y</IsPostProc>
+    <IsStockOperation>Y</IsStockOperation>
+    <IsReceipt>Y</IsReceipt>
+    <IsBirka>Y</IsBirka>
+    <IsEstimate>N</IsEstimate>
+    <CanLDW>Y</CanLDW>
+    <CanPostProc>Y</CanPostProc>
+    <CanStockOperation>Y</CanStockOperation>
+    <CanReceipt>Y</CanReceipt>
+    <CanBirka>Y</CanBirka>
+    <CanEstimate>N</CanEstimate>
+  </009E8827-483D-4743-AB67-A3482DB27218>
+  <885E9A7B-35DE-457D-9FEC-44BE72E06258>
+    <IsSelect>Y</IsSelect>
+    <CutResultUID>885E9A7B-35DE-457D-9FEC-44BE72E06258</CutResultUID>
+    <Material>ДВП ламинированная клен56</Material>
+    <SettingsName>1</SettingsName>
+    <PostProcName>Holzma</PostProcName>
+    <IsLDW>Y</IsLDW>
+    <IsPostProc>Y</IsPostProc>
+    <IsStockOperation>Y</IsStockOperation>
+    <IsReceipt>Y</IsReceipt>
+    <IsBirka>Y</IsBirka>
+    <IsEstimate>N</IsEstimate>
+    <CanLDW>Y</CanLDW>
+    <CanPostProc>Y</CanPostProc>
+    <CanStockOperation>Y</CanStockOperation>
+    <CanReceipt>Y</CanReceipt>
+    <CanBirka>Y</CanBirka>
+    <CanEstimate>N</CanEstimate>
+  </885E9A7B-35DE-457D-9FEC-44BE72E06258>
+  <63B795FA-7C0A-4DD1-9670-2F4C831463CD>
+    <IsSelect>Y</IsSelect>
+    <CutResultUID>63B795FA-7C0A-4DD1-9670-2F4C831463CD</CutResultUID>
+    <Material>ДСП бук 16</Material>
+    <SettingsName>1</SettingsName>
+    <PostProcName>Holzma</PostProcName>
+    <IsLDW>Y</IsLDW>
+    <IsPostProc>Y</IsPostProc>
+    <IsStockOperation>Y</IsStockOperation>
+    <IsReceipt>Y</IsReceipt>
+    <IsBirka>Y</IsBirka>
+    <IsEstimate>N</IsEstimate>
+    <CanLDW>Y</CanLDW>
+    <CanPostProc>Y</CanPostProc>
+    <CanStockOperation>Y</CanStockOperation>
+    <CanReceipt>Y</CanReceipt>
+    <CanBirka>Y</CanBirka>
+    <CanEstimate>N</CanEstimate>
+  </63B795FA-7C0A-4DD1-9670-2F4C831463CD>
+  <F03230A8-F645-4F86-9DF9-AD1EC432EBDD>
+    <IsSelect>Y</IsSelect>
+    <CutResultUID>F03230A8-F645-4F86-9DF9-AD1EC432EBDD</CutResultUID>
+    <Material>ДВП ламинированная клен56</Material>
+    <SettingsName>1</SettingsName>
+    <PostProcName>Holzma</PostProcName>
+    <IsLDW>Y</IsLDW>
+    <IsPostProc>Y</IsPostProc>
+    <IsStockOperation>Y</IsStockOperation>
+    <IsReceipt>Y</IsReceipt>
+    <IsBirka>Y</IsBirka>
+    <IsEstimate>N</IsEstimate>
+    <CanLDW>Y</CanLDW>
+    <CanPostProc>Y</CanPostProc>
+    <CanStockOperation>Y</CanStockOperation>
+    <CanReceipt>Y</CanReceipt>
+    <CanBirka>Y</CanBirka>
+    <CanEstimate>N</CanEstimate>
+  </F03230A8-F645-4F86-9DF9-AD1EC432EBDD>
+  <071FA2E3-3E85-483F-9DA7-8B5894F36D3E>
+    <IsSelect>Y</IsSelect>
+    <CutResultUID>071FA2E3-3E85-483F-9DA7-8B5894F36D3E</CutResultUID>
+    <Material>ДСП бук 16</Material>
+    <SettingsName>1</SettingsName>
+    <PostProcName>Holzma</PostProcName>
+    <IsLDW>Y</IsLDW>
+    <IsPostProc>Y</IsPostProc>
+    <IsStockOperation>Y</IsStockOperation>
+    <IsReceipt>Y</IsReceipt>
+    <IsBirka>Y</IsBirka>
+    <IsEstimate>N</IsEstimate>
+    <CanLDW>Y</CanLDW>
+    <CanPostProc>Y</CanPostProc>
+    <CanStockOperation>Y</CanStockOperation>
+    <CanReceipt>Y</CanReceipt>
+    <CanBirka>Y</CanBirka>
+    <CanEstimate>N</CanEstimate>
+  </071FA2E3-3E85-483F-9DA7-8B5894F36D3E>
+</Root>

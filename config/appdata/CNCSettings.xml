@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CNCSettings>
+  <Version>1</Version>
+  <General>
+    <PostProcessorName>Homag_WoodWop</PostProcessorName>
+    <OutputDirectory>C:\Users\VladimirWorkPC\Documents\Bazis\Файлы для ЧПУ\MPR\</OutputDirectory>
+    <CreateOrderSubfolder>N</CreateOrderSubfolder>
+    <FileNameFormat>%AIzd.%Pos</FileNameFormat>
+    <UsePanelDesignation>Y</UsePanelDesignation>
+    <IncludeOrderInFileName>N</IncludeOrderInFileName>
+  </General>
+  <Homag_WoodWop>
+    <Extension>.mpr</Extension>
+    <FileNameTemplate>%AIzd.%Pos</FileNameTemplate>
+    <SubtractEdgeThickness>Y</SubtractEdgeThickness>
+    <OriginCorner>1</OriginCorner>
+  </Homag_WoodWop>
+</CNCSettings>

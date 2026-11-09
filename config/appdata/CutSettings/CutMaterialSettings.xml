@@ -1,0 +1,533 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Root>
+  <RootGroup>
+    <Name>Root</Name>
+    <Type>TCutMatGroup</Type>
+    <NoDelete>N</NoDelete>
+    <MatType>2</MatType>
+    <MatTypeSize />
+    <Settings />
+    <Materials />
+    <Items>
+      <Item>
+        <Name>Прочие площадные материалы</Name>
+        <Type>TCutMatGroup</Type>
+        <NoDelete>Y</NoDelete>
+        <MatType>0</MatType>
+        <MatTypeSize>
+          <Item>
+            <Length>2800</Length>
+            <Width>2070</Width>
+          </Item>
+        </MatTypeSize>
+        <Settings>
+          <ID0>8088C91E-E5BB-4AEE-A6B7-DCB21D29DFB0</ID0>
+        </Settings>
+        <Materials />
+        <Items>
+          <Item>
+            <Name>ДСП бук 16</Name>
+            <Type>TCutMatList</Type>
+            <NoDelete>N</NoDelete>
+            <MatType>2</MatType>
+            <MatTypeSize />
+            <Settings />
+            <Materials>
+              <Material>
+                <UID>D211B3C1-D505-4A61-B6C0-D0AF1B884C60</UID>
+                <Length>2800</Length>
+                <Width>2070</Width>
+                <Count>0</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>0</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>Y</CreateManager>
+              </Material>
+              <Material>
+                <UID>7364916F-E5D7-4396-B67D-2ACD5617BD3A</UID>
+                <Length>234.8</Length>
+                <Width>598</Width>
+                <Count>2</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>AD49639F-B40D-48AA-B586-0AA54B711038</UID>
+                <Length>1199</Length>
+                <Width>286.3</Width>
+                <Count>2</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>B5C2F080-C9B0-4CA6-91F2-BBE5B4F7B481</UID>
+                <Length>376.2</Length>
+                <Width>598</Width>
+                <Count>2</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>ED3D458C-92C1-495A-9EDD-95AFD8F18791</UID>
+                <Length>2800</Length>
+                <Width>845.2</Width>
+                <Count>2</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>FB010095-BF59-41DC-81FD-071EC6A4E65D</UID>
+                <Length>252.8</Length>
+                <Width>925</Width>
+                <Count>1</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>78168279-A328-490C-80E7-5B00595EB105</UID>
+                <Length>926</Length>
+                <Width>613.3</Width>
+                <Count>1</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>688DE18F-48D8-4254-A3E2-5E87192A223E</UID>
+                <Length>1177.2</Length>
+                <Width>925</Width>
+                <Count>1</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>6CD5EA88-EB26-4B87-A746-97A34F3BCB91</UID>
+                <Length>2800</Length>
+                <Width>191.2</Width>
+                <Count>1</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>540CC4FA-DAE8-4BAD-AE5A-B721D85EED8F</UID>
+                <Length>923</Length>
+                <Width>87.3</Width>
+                <Count>4</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>98E14D9A-67F8-4F7C-BE86-8381CF6E7CF4</UID>
+                <Length>926</Length>
+                <Width>81.6</Width>
+                <Count>2</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>66596814-4C22-4CCC-BF23-27962B325AD2</UID>
+                <Length>668</Length>
+                <Width>191.2</Width>
+                <Count>6</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>8079168F-C9ED-457E-AB3A-86652F2F5F01</UID>
+                <Length>249.8</Length>
+                <Width>2070</Width>
+                <Count>2</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>1CC4D342-DA8C-4BFB-A35B-66BCCA715E0B</UID>
+                <Length>250.6</Length>
+                <Width>925</Width>
+                <Count>2</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>B0B6824C-5DA4-4BCE-80FB-482350EEB89C</UID>
+                <Length>923</Length>
+                <Width>191.2</Width>
+                <Count>4</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>59784E6C-57CC-470F-8725-8AEDD7E363B3</UID>
+                <Length>252.8</Length>
+                <Width>2070</Width>
+                <Count>2</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>8D79F98F-78EF-40AD-B005-28AAA83268CB</UID>
+                <Length>668</Length>
+                <Width>1120.6</Width>
+                <Count>2</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>4F8DAEB6-6BCD-4958-ADF7-A3B185189503</UID>
+                <Length>507.8</Length>
+                <Width>2070</Width>
+                <Count>2</Count>
+                <Material>ДСП бук 16</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+            </Materials>
+            <Items />
+          </Item>
+          <Item>
+            <Name>ДВП ламинированная клен
+56</Name>
+            <Type>TCutMatList</Type>
+            <NoDelete>N</NoDelete>
+            <MatType>2</MatType>
+            <MatTypeSize />
+            <Settings />
+            <Materials>
+              <Material>
+                <UID>B3C4F748-026C-4A35-93F1-C6C7A3DEE55E</UID>
+                <Length>2800</Length>
+                <Width>2070</Width>
+                <Count>0</Count>
+                <Material>ДВП ламинированная клен
+56</Material>
+                <MaterialType>0</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>Y</CreateManager>
+              </Material>
+              <Material>
+                <UID>6FD3BD2E-8930-4278-986D-6DEFE2C865CF</UID>
+                <Length>696</Length>
+                <Width>849.6</Width>
+                <Count>2</Count>
+                <Material>ДВП ламинированная клен
+56</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>3302E6B3-1A08-4604-8B44-2111885306C5</UID>
+                <Length>2079.6</Length>
+                <Width>2070</Width>
+                <Count>3</Count>
+                <Material>ДВП ламинированная клен
+56</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>1DDCEF53-261C-452C-98C3-2329D55C789B</UID>
+                <Length>696</Length>
+                <Width>1122.6</Width>
+                <Count>1</Count>
+                <Material>ДВП ламинированная клен
+56</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>856CE101-A7C1-4668-A798-6E567C689023</UID>
+                <Length>696</Length>
+                <Width>195.2</Width>
+                <Count>4</Count>
+                <Material>ДВП ламинированная клен
+56</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+              <Material>
+                <UID>ED6C1290-2EBC-4955-B631-7BAF1B036B3C</UID>
+                <Length>1379.2</Length>
+                <Width>2070</Width>
+                <Count>2</Count>
+                <Material>ДВП ламинированная клен
+56</Material>
+                <MaterialType>1</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>N</CreateManager>
+              </Material>
+            </Materials>
+            <Items />
+          </Item>
+          <Item>
+            <Name>ДСП белая 16</Name>
+            <Type>TCutMatList</Type>
+            <NoDelete>N</NoDelete>
+            <MatType>2</MatType>
+            <MatTypeSize />
+            <Settings />
+            <Materials>
+              <Material>
+                <UID>63D6BAB4-5610-4EB8-A088-B0FC719ECF3C</UID>
+                <Length>2800</Length>
+                <Width>2070</Width>
+                <Count>0</Count>
+                <Material>ДСП белая 16</Material>
+                <MaterialType>0</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>Y</CreateManager>
+              </Material>
+            </Materials>
+            <Items />
+          </Item>
+          <Item>
+            <Name>ЛДСП 16мм Дуб Сонома</Name>
+            <Type>TCutMatList</Type>
+            <NoDelete>N</NoDelete>
+            <MatType>2</MatType>
+            <MatTypeSize />
+            <Settings />
+            <Materials>
+              <Material>
+                <UID>629183EA-6336-4119-9C52-88FDAF0377AF</UID>
+                <Length>2800</Length>
+                <Width>2070</Width>
+                <Count>0</Count>
+                <Material>ЛДСП 16мм Дуб Сонома</Material>
+                <MaterialType>0</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>Y</CreateManager>
+              </Material>
+            </Materials>
+            <Items />
+          </Item>
+          <Item>
+            <Name>ЛДСП 16мм Венге Цаво</Name>
+            <Type>TCutMatList</Type>
+            <NoDelete>N</NoDelete>
+            <MatType>2</MatType>
+            <MatTypeSize />
+            <Settings />
+            <Materials>
+              <Material>
+                <UID>D1034F47-3D2A-46E9-8A12-593340462F04</UID>
+                <Length>2800</Length>
+                <Width>2070</Width>
+                <Count>0</Count>
+                <Material>ЛДСП 16мм Венге Цаво</Material>
+                <MaterialType>0</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>Y</CreateManager>
+              </Material>
+            </Materials>
+            <Items />
+          </Item>
+          <Item>
+            <Name>ЛДСП 16мм Кашемир серый</Name>
+            <Type>TCutMatList</Type>
+            <NoDelete>N</NoDelete>
+            <MatType>2</MatType>
+            <MatTypeSize />
+            <Settings />
+            <Materials>
+              <Material>
+                <UID>2D901D98-07EA-4669-BC16-56C5689AEBE8</UID>
+                <Length>2800</Length>
+                <Width>2070</Width>
+                <Count>0</Count>
+                <Material>ЛДСП 16мм Кашемир серый</Material>
+                <MaterialType>0</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>Y</CreateManager>
+              </Material>
+            </Materials>
+            <Items />
+          </Item>
+          <Item>
+            <Name>ЛДСП 16мм Антрацит</Name>
+            <Type>TCutMatList</Type>
+            <NoDelete>N</NoDelete>
+            <MatType>2</MatType>
+            <MatTypeSize />
+            <Settings />
+            <Materials>
+              <Material>
+                <UID>5DD790C7-8F0C-4F71-9965-F77563C9E2B2</UID>
+                <Length>2800</Length>
+                <Width>2070</Width>
+                <Count>0</Count>
+                <Material>ЛДСП 16мм Антрацит</Material>
+                <MaterialType>0</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>Y</CreateManager>
+              </Material>
+            </Materials>
+            <Items />
+          </Item>
+          <Item>
+            <Name>ЛДСП 16мм Дуб Галифакс</Name>
+            <Type>TCutMatList</Type>
+            <NoDelete>N</NoDelete>
+            <MatType>2</MatType>
+            <MatTypeSize />
+            <Settings />
+            <Materials>
+              <Material>
+                <UID>F701F3A9-126C-43F0-922B-3B7E943F6163</UID>
+                <Length>2800</Length>
+                <Width>2070</Width>
+                <Count>0</Count>
+                <Material>ЛДСП 16мм Дуб Галифакс</Material>
+                <MaterialType>0</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>Y</CreateManager>
+              </Material>
+            </Materials>
+            <Items />
+          </Item>
+          <Item>
+            <Name>ДВП ламинированная клен</Name>
+            <Type>TCutMatList</Type>
+            <NoDelete>N</NoDelete>
+            <MatType>2</MatType>
+            <MatTypeSize />
+            <Settings />
+            <Materials>
+              <Material>
+                <UID>40592002-3964-424B-AFE2-61B3F0CE9B82</UID>
+                <Length>2800</Length>
+                <Width>2070</Width>
+                <Count>0</Count>
+                <Material>ДВП ламинированная клен</Material>
+                <MaterialType>0</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>Y</CreateManager>
+              </Material>
+            </Materials>
+            <Items />
+          </Item>
+          <Item>
+            <Name>ДВП ламинированная белая</Name>
+            <Type>TCutMatList</Type>
+            <NoDelete>N</NoDelete>
+            <MatType>2</MatType>
+            <MatTypeSize />
+            <Settings />
+            <Materials>
+              <Material>
+                <UID>87D439D9-4696-4FDD-AE09-1D6E132F9DCD</UID>
+                <Length>2800</Length>
+                <Width>2070</Width>
+                <Count>0</Count>
+                <Material>ДВП ламинированная белая</Material>
+                <MaterialType>0</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>Y</CreateManager>
+              </Material>
+            </Materials>
+            <Items />
+          </Item>
+        </Items>
+      </Item>
+      <Item>
+        <Name>Прочие погонные материалы</Name>
+        <Type>TCutMatGroup</Type>
+        <NoDelete>Y</NoDelete>
+        <MatType>1</MatType>
+        <MatTypeSize>
+          <Item>
+            <Length>3000</Length>
+            <Width>200</Width>
+          </Item>
+        </MatTypeSize>
+        <Settings>
+          <ID0>8088C91E-E5BB-4AEE-A6B7-DCB21D29DFB0</ID0>
+        </Settings>
+        <Materials />
+        <Items>
+          <Item>
+            <Name>Кромка ПВХ бук 2/19
+34</Name>
+            <Type>TCutMatList</Type>
+            <NoDelete>N</NoDelete>
+            <MatType>2</MatType>
+            <MatTypeSize />
+            <Settings />
+            <Materials>
+              <Material>
+                <UID>CD6F3643-3594-4452-8902-C237C212CA44</UID>
+                <Length>3000</Length>
+                <Width>200</Width>
+                <Count>0</Count>
+                <Material>Кромка ПВХ бук 2/19
+34</Material>
+                <MaterialType>0</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>Y</CreateManager>
+              </Material>
+            </Materials>
+            <Items />
+          </Item>
+          <Item>
+            <Name>Кромка ПВХ бук 0,4/19
+38</Name>
+            <Type>TCutMatList</Type>
+            <NoDelete>N</NoDelete>
+            <MatType>2</MatType>
+            <MatTypeSize />
+            <Settings />
+            <Materials>
+              <Material>
+                <UID>DB230B15-41FE-417F-9E12-B18BB5CEC1E8</UID>
+                <Length>3000</Length>
+                <Width>200</Width>
+                <Count>0</Count>
+                <Material>Кромка ПВХ бук 0,4/19
+38</Material>
+                <MaterialType>0</MaterialType>
+                <UseMaterial>Y</UseMaterial>
+                <CreateManager>Y</CreateManager>
+              </Material>
+            </Materials>
+            <Items />
+          </Item>
+        </Items>
+      </Item>
+    </Items>
+  </RootGroup>
+</Root>

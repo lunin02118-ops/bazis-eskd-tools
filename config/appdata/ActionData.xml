@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionData>
+  <BodyNames>Боковина левая
+Боковина правая
+Крышка верхняя
+Дно нижнее
+Полка
+Полка съёмная
+Перегородка вертикальная
+Вязка горизонтальная
+Стенка задняя
+Планка цокольная
+Планка монтажная
+Царга
+Столешница
+Фасад
+Фасад левый
+Фасад правый
+Фасад ящика
+Дверь левая
+Дверь правая
+Боковина ящика левая
+Боковина ящика правая
+Стенка ящика передняя
+Стенка ящика задняя
+Дно ящика
+</BodyNames>
+  <TFastenerPinAction>
+    <CheckJoint>Y</CheckJoint>
+    <SetupOnProjection>N</SetupOnProjection>
+    <ManyPlanes>N</ManyPlanes>
+  </TFastenerPinAction>
+  <TFastenerFaceAngleAction>
+    <CheckJoint>Y</CheckJoint>
+    <SetupOnProjection>N</SetupOnProjection>
+    <Angle>0</Angle>
+  </TFastenerFaceAngleAction>
+  <TFastenerFaceFaceAction>
+    <CheckJoint>N</CheckJoint>
+    <SetupOnProjection>Y</SetupOnProjection>
+    <ManyPlanes>N</ManyPlanes>
+    <TopHoles>0</TopHoles>
+    <BottomHoles>0</BottomHoles>
+    <HoleStep>0</HoleStep>
+  </TFastenerFaceFaceAction>
+  <MaterialCodes>434568
+</MaterialCodes>
+  <AssemblyNames>889.00.000
+</AssemblyNames>
+  <BlockNames>Корпус
+Фасадная группа
+Ящик выдвижной
+Дверь купе
+</BlockNames>
+  <TcmDefault>
+    <SubCommand>1</SubCommand>
+  </TcmDefault>
+  <TPreciseRotateAction>
+    <Copy>N</Copy>
+  </TPreciseRotateAction>
+  <TPreciseMoveAction>
+    <Copy>N</Copy>
+  </TPreciseMoveAction>
+</ActionData>

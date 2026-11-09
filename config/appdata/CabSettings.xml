@@ -1,0 +1,742 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <Indexes>
+    <NewDirect>2</NewDirect>
+    <NewAngle>0</NewAngle>
+    <NewCurve>0</NewCurve>
+    <NewAntrAngle>0</NewAntrAngle>
+  </Indexes>
+  <Panels>
+    <QuantityDemPanels>1</QuantityDemPanels>
+    <GorPanelsUpToDemPanel>N</GorPanelsUpToDemPanel>
+    <RigidityType>0</RigidityType>
+    <ExistsRigBackDistance>Y</ExistsRigBackDistance>
+    <ExistsRigFrontDistance>N</ExistsRigFrontDistance>
+    <RigPanelsBackDistance>0</RigPanelsBackDistance>
+    <RigPanelsFrontDistance>2</RigPanelsFrontDistance>
+    <VertPanelsDistance>0</VertPanelsDistance>
+    <GorPanelsFrontDistance>0</GorPanelsFrontDistance>
+    <GorPanelsBackDistance>0</GorPanelsBackDistance>
+    <DemPanelsFrontDistance>0</DemPanelsFrontDistance>
+    <DemPanelsBackDistance>0</DemPanelsBackDistance>
+  </Panels>
+  <Kants>
+    <Total>N</Total>
+    <Cover>Y</Cover>
+    <Bottom>N</Bottom>
+    <Angular>N</Angular>
+  </Kants>
+  <Materials>
+    <Current_Name>ДСП бук 16</Current_Name>
+    <Current_Kod/>
+    <Current_Thickness>16</Current_Thickness>
+    <Current_Type>1</Current_Type>
+    <Current_Width>0</Current_Width>
+    <BackWall_Name>ДВП ламинированная клен</BackWall_Name>
+    <BackWall_Kod>56</BackWall_Kod>
+    <BackWall_Thickness>3</BackWall_Thickness>
+    <BackWall_Type>1</BackWall_Type>
+    <BackWall_Width>0</BackWall_Width>
+    <Cover_Name>ДСП бук 16</Cover_Name>
+    <Cover_Kod/>
+    <Cover_Thickness>16</Cover_Thickness>
+    <Cover_Type>1</Cover_Type>
+    <Cover_Width>0</Cover_Width>
+    <Left_Name>ДСП бук 16</Left_Name>
+    <Left_Kod/>
+    <Left_Thickness>16</Left_Thickness>
+    <Left_Type>1</Left_Type>
+    <Left_Width>0</Left_Width>
+    <Right_Name>ДСП бук 16</Right_Name>
+    <Right_Kod/>
+    <Right_Thickness>16</Right_Thickness>
+    <Right_Type>1</Right_Type>
+    <Right_Width>0</Right_Width>
+    <Bottom_Name>ДСП бук 16</Bottom_Name>
+    <Bottom_Kod/>
+    <Bottom_Thickness>16</Bottom_Thickness>
+    <Bottom_Type>1</Bottom_Type>
+    <Bottom_Width>0</Bottom_Width>
+    <Socle_Name>ДСП бук 16</Socle_Name>
+    <Socle_Kod/>
+    <Socle_Thickness>16</Socle_Thickness>
+    <Socle_Type>1</Socle_Type>
+    <Socle_Width>0</Socle_Width>
+    <AngularDem_Name>ДСП вишня 16</AngularDem_Name>
+    <AngularDem_Kod>61</AngularDem_Kod>
+    <AngularDem_Thickness>16</AngularDem_Thickness>
+    <AngularDem_Type>1</AngularDem_Type>
+    <AngularDem_Width>0</AngularDem_Width>
+    <CurrentAntr_Name>ДСП бук 16</CurrentAntr_Name>
+    <CurrentAntr_Kod/>
+    <CurrentAntr_Thickness>16</CurrentAntr_Thickness>
+    <CurrentAntr_Type>1</CurrentAntr_Type>
+    <CurrentAntr_Width>0</CurrentAntr_Width>
+    <BackWallAntr_Name>ДВП ламинированная клен</BackWallAntr_Name>
+    <BackWallAntr_Kod>56</BackWallAntr_Kod>
+    <BackWallAntr_Thickness>3</BackWallAntr_Thickness>
+    <BackWallAntr_Type>1</BackWallAntr_Type>
+    <BackWallAntr_Width>0</BackWallAntr_Width>
+    <CoverAntr_Name>ДСП бук 16</CoverAntr_Name>
+    <CoverAntr_Kod/>
+    <CoverAntr_Thickness>16</CoverAntr_Thickness>
+    <CoverAntr_Type>1</CoverAntr_Type>
+    <CoverAntr_Width>0</CoverAntr_Width>
+    <LeftAntr_Name>ДСП бук 16</LeftAntr_Name>
+    <LeftAntr_Kod/>
+    <LeftAntr_Thickness>16</LeftAntr_Thickness>
+    <LeftAntr_Type>1</LeftAntr_Type>
+    <LeftAntr_Width>0</LeftAntr_Width>
+    <RightAntr_Name>ДСП бук 16</RightAntr_Name>
+    <RightAntr_Kod/>
+    <RightAntr_Thickness>16</RightAntr_Thickness>
+    <RightAntr_Type>1</RightAntr_Type>
+    <RightAntr_Width>0</RightAntr_Width>
+    <BottomAntr_Name>ДСП бук 16</BottomAntr_Name>
+    <BottomAntr_Kod/>
+    <BottomAntr_Thickness>16</BottomAntr_Thickness>
+    <BottomAntr_Type>1</BottomAntr_Type>
+    <BottomAntr_Width>0</BottomAntr_Width>
+    <AngularDemAntr_Name>ДСП</AngularDemAntr_Name>
+    <AngularDemAntr_Kod/>
+    <AngularDemAntr_Thickness>16</AngularDemAntr_Thickness>
+    <AngularDemAntr_Type>1</AngularDemAntr_Type>
+    <AngularDemAntr_Width>0</AngularDemAntr_Width>
+  </Materials>
+  <PanelsNames>
+    <Cover>Крышка верхняя</Cover>
+    <BackWall>Стенка задняя</BackWall>
+    <Vertical>Перегородка вертикальная</Vertical>
+    <Gorizont>Вязка горизонтальная</Gorizont>
+    <Rigidity>Панель жесткости</Rigidity>
+    <DemountablePanel>Полка съёмная</DemountablePanel>
+    <Bottom>Дно нижнее</Bottom>
+    <Socle>Планка цокольная</Socle>
+    <Dekor>Панель декоративная</Dekor>
+    <Planks>Планка усиления</Planks>
+    <Wall>Панель стеновая</Wall>
+    <Rod>Планка монтажная</Rod>
+    <LeftLateralPanel>Боковина левая</LeftLateralPanel>
+    <RigthLateralPanel>Боковина правая</RigthLateralPanel>
+    <AngularSectDemPanels>Полка угловая</AngularSectDemPanels>
+    <AngularBackWall>Стенка задняя</AngularBackWall>
+    <AngularCover>Крышка</AngularCover>
+    <AngularBottom>Дно</AngularBottom>
+    <BoxesKrish>Крышка ящичной секции</BoxesKrish>
+    <BoxesBack>Стенка задняя ящичной секции</BoxesBack>
+    <BoxesDno>Дно ящичной секции</BoxesDno>
+    <BoxesBokLev>Боковина левая ящичной секции</BoxesBokLev>
+    <BoxesBokRight>Боковина правая ящичной секции</BoxesBokRight>
+    <BoxesMont>Планка монтажная ящичной секции</BoxesMont>
+    <AddPanel>Панель лицевая</AddPanel>
+    <AddPanelSarga>Царга лицевая</AddPanelSarga>
+    <AngularCabBackWall>Стенка задняя</AngularCabBackWall>
+    <AngularCabRack>Стойка</AngularCabRack>
+    <Upor>Панель упорная</Upor>
+    <HarnessVert>Боковина обвязки</HarnessVert>
+    <HarnessGor>Горизонтальная панель обвязки</HarnessGor>
+    <CoverAntr>Крышка</CoverAntr>
+    <BackWallAntr>Стенка задняя</BackWallAntr>
+    <VerticalAntr>Стойка</VerticalAntr>
+    <GorizontAntr>Полка</GorizontAntr>
+    <RigidityAntr>Панель жесткости</RigidityAntr>
+    <DemountablePanelAntr>Полка съемная</DemountablePanelAntr>
+    <BottomAntr>Дно</BottomAntr>
+    <LeftLateralPanelAntr>Боковина левая</LeftLateralPanelAntr>
+    <RigthLateralPanelAntr>Боковина правая</RigthLateralPanelAntr>
+    <AngularCabBackWallAntr>Стенка задняя</AngularCabBackWallAntr>
+    <AngularCabRackAntr>Стойка</AngularCabRackAntr>
+    <UporAntr>Панель упорная</UporAntr>
+    <AngularSectDemPanelsAntr>Полка угловая</AngularSectDemPanelsAntr>
+    <AngularBackWallAntr>Стенка задняя</AngularBackWallAntr>
+    <AngularCoverAntr>Крышка</AngularCoverAntr>
+    <AngularBottomAntr>Дно</AngularBottomAntr>
+  </PanelsNames>
+  <Facing>
+    <HowToRevet>0</HowToRevet>
+    <CoverIndividually>N</CoverIndividually>
+    <BottomIndividually>N</BottomIndividually>
+    <BackWallIndividually>N</BackWallIndividually>
+    <LimitsForShelf>6</LimitsForShelf>
+    <KantDistance>0</KantDistance>
+    <PanelsSeenFacing>
+      <LateralPanels_Name>Кромка ПВХ бук 2/19</LateralPanels_Name>
+      <LateralPanels_Kod>34</LateralPanels_Kod>
+      <LateralPanels_Designation>Бук2/19</LateralPanels_Designation>
+      <LateralPanels_Thickness>2</LateralPanels_Thickness>
+      <LateralPanels_Type>1</LateralPanels_Type>
+      <LateralPanels_Width>0</LateralPanels_Width>
+      <LateralPanels_Cut>Y</LateralPanels_Cut>
+      <LateralPanels_Fixed>N</LateralPanels_Fixed>
+      <LateralPanels_Distance>0</LateralPanels_Distance>
+      <LateralPanels_Add>0</LateralPanels_Add>
+      <LateralPanelsRight_Name>Кромка ПВХ бук 2/19</LateralPanelsRight_Name>
+      <LateralPanelsRight_Kod>34</LateralPanelsRight_Kod>
+      <LateralPanelsRight_Designation>Бук2/19</LateralPanelsRight_Designation>
+      <LateralPanelsRight_Thickness>2</LateralPanelsRight_Thickness>
+      <LateralPanelsRight_Type>1</LateralPanelsRight_Type>
+      <LateralPanelsRight_Width>0</LateralPanelsRight_Width>
+      <LateralPanelsRight_Cut>Y</LateralPanelsRight_Cut>
+      <LateralPanelsRight_Fixed>N</LateralPanelsRight_Fixed>
+      <LateralPanelsRight_Distance>0</LateralPanelsRight_Distance>
+      <LateralPanelsRight_Add>0</LateralPanelsRight_Add>
+      <InternalFilling_Name>Кромка ПВХ бук 2/19</InternalFilling_Name>
+      <InternalFilling_Kod>34</InternalFilling_Kod>
+      <InternalFilling_Designation>Бук2/19</InternalFilling_Designation>
+      <InternalFilling_Thickness>2</InternalFilling_Thickness>
+      <InternalFilling_Type>1</InternalFilling_Type>
+      <InternalFilling_Width>0</InternalFilling_Width>
+      <InternalFilling_Cut>Y</InternalFilling_Cut>
+      <InternalFilling_Fixed>N</InternalFilling_Fixed>
+      <InternalFilling_Distance>0</InternalFilling_Distance>
+      <InternalFilling_Add>0</InternalFilling_Add>
+      <DemPanels_Name>Кромка ПВХ бук 2/19</DemPanels_Name>
+      <DemPanels_Kod>34</DemPanels_Kod>
+      <DemPanels_Designation>Бук2/19</DemPanels_Designation>
+      <DemPanels_Thickness>2</DemPanels_Thickness>
+      <DemPanels_Type>1</DemPanels_Type>
+      <DemPanels_Width>0</DemPanels_Width>
+      <DemPanels_Cut>Y</DemPanels_Cut>
+      <DemPanels_Fixed>N</DemPanels_Fixed>
+      <DemPanels_Distance>0</DemPanels_Distance>
+      <DemPanels_Add>0</DemPanels_Add>
+      <DemPanelsBefore_Name>Кромка ПВХ бук 2/19</DemPanelsBefore_Name>
+      <DemPanelsBefore_Kod>34</DemPanelsBefore_Kod>
+      <DemPanelsBefore_Designation>Бук2/19</DemPanelsBefore_Designation>
+      <DemPanelsBefore_Thickness>2</DemPanelsBefore_Thickness>
+      <DemPanelsBefore_Type>1</DemPanelsBefore_Type>
+      <DemPanelsBefore_Width>0</DemPanelsBefore_Width>
+      <DemPanelsBefore_Cut>Y</DemPanelsBefore_Cut>
+      <DemPanelsBefore_Fixed>N</DemPanelsBefore_Fixed>
+      <DemPanelsBefore_Distance>0</DemPanelsBefore_Distance>
+      <DemPanelsBefore_Add>0</DemPanelsBefore_Add>
+      <Socle_Name>Кромка ПВХ бук 0,4/19</Socle_Name>
+      <Socle_Kod>38</Socle_Kod>
+      <Socle_Designation>Бук0,4/19</Socle_Designation>
+      <Socle_Thickness>.5</Socle_Thickness>
+      <Socle_Type>1</Socle_Type>
+      <Socle_Width>0</Socle_Width>
+      <Socle_Cut>Y</Socle_Cut>
+      <Socle_Fixed>N</Socle_Fixed>
+      <Socle_Distance>0</Socle_Distance>
+      <Socle_Add>0</Socle_Add>
+      <Cover_Name>Кромка ПВХ бук 2/19</Cover_Name>
+      <Cover_Kod>34</Cover_Kod>
+      <Cover_Designation>Бук2/19</Cover_Designation>
+      <Cover_Thickness>2</Cover_Thickness>
+      <Cover_Type>1</Cover_Type>
+      <Cover_Width>0</Cover_Width>
+      <Cover_Cut>Y</Cover_Cut>
+      <Cover_Fixed>N</Cover_Fixed>
+      <Cover_Distance>0</Cover_Distance>
+      <Cover_Add>0</Cover_Add>
+      <Bottom_Name>Кромка ПВХ бук 2/19</Bottom_Name>
+      <Bottom_Kod>34</Bottom_Kod>
+      <Bottom_Designation>Бук2/19</Bottom_Designation>
+      <Bottom_Thickness>2</Bottom_Thickness>
+      <Bottom_Type>1</Bottom_Type>
+      <Bottom_Width>0</Bottom_Width>
+      <Bottom_Cut>Y</Bottom_Cut>
+      <Bottom_Fixed>N</Bottom_Fixed>
+      <Bottom_Distance>0</Bottom_Distance>
+      <Bottom_Add>0</Bottom_Add>
+      <AngularDemPanels_Name>Кромка ПВХ бук 2/19</AngularDemPanels_Name>
+      <AngularDemPanels_Kod>34</AngularDemPanels_Kod>
+      <AngularDemPanels_Designation>Бук2/19</AngularDemPanels_Designation>
+      <AngularDemPanels_Thickness>2</AngularDemPanels_Thickness>
+      <AngularDemPanels_Type>1</AngularDemPanels_Type>
+      <AngularDemPanels_Width>0</AngularDemPanels_Width>
+      <AngularDemPanels_Cut>Y</AngularDemPanels_Cut>
+      <AngularDemPanels_Fixed>N</AngularDemPanels_Fixed>
+      <AngularDemPanels_Distance>0</AngularDemPanels_Distance>
+      <AngularDemPanels_Add>0</AngularDemPanels_Add>
+      <LateralPanelsAntr_Name/>
+      <LateralPanelsAntr_Kod/>
+      <LateralPanelsAntr_Designation/>
+      <LateralPanelsAntr_Thickness>0</LateralPanelsAntr_Thickness>
+      <LateralPanelsAntr_Type>1</LateralPanelsAntr_Type>
+      <LateralPanelsAntr_Width>0</LateralPanelsAntr_Width>
+      <LateralPanelsAntr_Cut>Y</LateralPanelsAntr_Cut>
+      <LateralPanelsAntr_Fixed>N</LateralPanelsAntr_Fixed>
+      <LateralPanelsAntr_Distance>0</LateralPanelsAntr_Distance>
+      <LateralPanelsAntr_Add>0</LateralPanelsAntr_Add>
+      <LateralPanelsRightAntr_Name/>
+      <LateralPanelsRightAntr_Kod/>
+      <LateralPanelsRightAntr_Designation/>
+      <LateralPanelsRightAntr_Thickness>0</LateralPanelsRightAntr_Thickness>
+      <LateralPanelsRightAntr_Type>1</LateralPanelsRightAntr_Type>
+      <LateralPanelsRightAntr_Width>0</LateralPanelsRightAntr_Width>
+      <LateralPanelsRightAntr_Cut>Y</LateralPanelsRightAntr_Cut>
+      <LateralPanelsRightAntr_Fixed>N</LateralPanelsRightAntr_Fixed>
+      <LateralPanelsRightAntr_Distance>0</LateralPanelsRightAntr_Distance>
+      <LateralPanelsRightAntr_Add>0</LateralPanelsRightAntr_Add>
+      <InternalFillingAntr_Name/>
+      <InternalFillingAntr_Kod/>
+      <InternalFillingAntr_Designation/>
+      <InternalFillingAntr_Thickness>0</InternalFillingAntr_Thickness>
+      <InternalFillingAntr_Type>1</InternalFillingAntr_Type>
+      <InternalFillingAntr_Width>0</InternalFillingAntr_Width>
+      <InternalFillingAntr_Cut>Y</InternalFillingAntr_Cut>
+      <InternalFillingAntr_Fixed>N</InternalFillingAntr_Fixed>
+      <InternalFillingAntr_Distance>0</InternalFillingAntr_Distance>
+      <InternalFillingAntr_Add>0</InternalFillingAntr_Add>
+      <DemPanelsAntr_Name/>
+      <DemPanelsAntr_Kod/>
+      <DemPanelsAntr_Designation/>
+      <DemPanelsAntr_Thickness>0</DemPanelsAntr_Thickness>
+      <DemPanelsAntr_Type>1</DemPanelsAntr_Type>
+      <DemPanelsAntr_Width>0</DemPanelsAntr_Width>
+      <DemPanelsAntr_Cut>Y</DemPanelsAntr_Cut>
+      <DemPanelsAntr_Fixed>N</DemPanelsAntr_Fixed>
+      <DemPanelsAntr_Distance>0</DemPanelsAntr_Distance>
+      <DemPanelsAntr_Add>0</DemPanelsAntr_Add>
+      <DemPanelsBeforeAntr_Name/>
+      <DemPanelsBeforeAntr_Kod/>
+      <DemPanelsBeforeAntr_Designation/>
+      <DemPanelsBeforeAntr_Thickness>0</DemPanelsBeforeAntr_Thickness>
+      <DemPanelsBeforeAntr_Type>1</DemPanelsBeforeAntr_Type>
+      <DemPanelsBeforeAntr_Width>0</DemPanelsBeforeAntr_Width>
+      <DemPanelsBeforeAntr_Cut>Y</DemPanelsBeforeAntr_Cut>
+      <DemPanelsBeforeAntr_Fixed>N</DemPanelsBeforeAntr_Fixed>
+      <DemPanelsBeforeAntr_Distance>0</DemPanelsBeforeAntr_Distance>
+      <DemPanelsBeforeAntr_Add>0</DemPanelsBeforeAntr_Add>
+      <CoverAntr_Name/>
+      <CoverAntr_Kod/>
+      <CoverAntr_Designation/>
+      <CoverAntr_Thickness>0</CoverAntr_Thickness>
+      <CoverAntr_Type>1</CoverAntr_Type>
+      <CoverAntr_Width>0</CoverAntr_Width>
+      <CoverAntr_Cut>Y</CoverAntr_Cut>
+      <CoverAntr_Fixed>N</CoverAntr_Fixed>
+      <CoverAntr_Distance>0</CoverAntr_Distance>
+      <CoverAntr_Add>0</CoverAntr_Add>
+      <BottomAntr_Name/>
+      <BottomAntr_Kod/>
+      <BottomAntr_Designation/>
+      <BottomAntr_Thickness>0</BottomAntr_Thickness>
+      <BottomAntr_Type>1</BottomAntr_Type>
+      <BottomAntr_Width>0</BottomAntr_Width>
+      <BottomAntr_Cut>Y</BottomAntr_Cut>
+      <BottomAntr_Fixed>N</BottomAntr_Fixed>
+      <BottomAntr_Distance>0</BottomAntr_Distance>
+      <BottomAntr_Add>0</BottomAntr_Add>
+      <AngularDemPanelsAntr_Name/>
+      <AngularDemPanelsAntr_Kod/>
+      <AngularDemPanelsAntr_Designation/>
+      <AngularDemPanelsAntr_Thickness>0</AngularDemPanelsAntr_Thickness>
+      <AngularDemPanelsAntr_Type>1</AngularDemPanelsAntr_Type>
+      <AngularDemPanelsAntr_Width>0</AngularDemPanelsAntr_Width>
+      <AngularDemPanelsAntr_Cut>Y</AngularDemPanelsAntr_Cut>
+      <AngularDemPanelsAntr_Fixed>N</AngularDemPanelsAntr_Fixed>
+      <AngularDemPanelsAntr_Distance>0</AngularDemPanelsAntr_Distance>
+      <AngularDemPanelsAntr_Add>0</AngularDemPanelsAntr_Add>
+    </PanelsSeenFacing>
+    <PanelsInvisibleFacing>
+      <LateralPanels_Name>Кромка ПВХ бук 0,4/19</LateralPanels_Name>
+      <LateralPanels_Kod>38</LateralPanels_Kod>
+      <LateralPanels_Designation>Бук0,4/19</LateralPanels_Designation>
+      <LateralPanels_Thickness>.5</LateralPanels_Thickness>
+      <LateralPanels_Type>1</LateralPanels_Type>
+      <LateralPanels_Width>0</LateralPanels_Width>
+      <LateralPanels_Cut>Y</LateralPanels_Cut>
+      <LateralPanels_Fixed>N</LateralPanels_Fixed>
+      <LateralPanels_Distance>0</LateralPanels_Distance>
+      <LateralPanels_Add>0</LateralPanels_Add>
+      <LateralPanelsRight_Name>Кромка ПВХ бук 0,4/19</LateralPanelsRight_Name>
+      <LateralPanelsRight_Kod>38</LateralPanelsRight_Kod>
+      <LateralPanelsRight_Designation>Бук0,4/19</LateralPanelsRight_Designation>
+      <LateralPanelsRight_Thickness>.5</LateralPanelsRight_Thickness>
+      <LateralPanelsRight_Type>1</LateralPanelsRight_Type>
+      <LateralPanelsRight_Width>0</LateralPanelsRight_Width>
+      <LateralPanelsRight_Cut>Y</LateralPanelsRight_Cut>
+      <LateralPanelsRight_Fixed>N</LateralPanelsRight_Fixed>
+      <LateralPanelsRight_Distance>0</LateralPanelsRight_Distance>
+      <LateralPanelsRight_Add>0</LateralPanelsRight_Add>
+      <InternalFilling_Name>Кромка ПВХ бук 0,4/19</InternalFilling_Name>
+      <InternalFilling_Kod>38</InternalFilling_Kod>
+      <InternalFilling_Designation>Бук0,4/19</InternalFilling_Designation>
+      <InternalFilling_Thickness>.5</InternalFilling_Thickness>
+      <InternalFilling_Type>1</InternalFilling_Type>
+      <InternalFilling_Width>0</InternalFilling_Width>
+      <InternalFilling_Cut>Y</InternalFilling_Cut>
+      <InternalFilling_Fixed>N</InternalFilling_Fixed>
+      <InternalFilling_Distance>0</InternalFilling_Distance>
+      <InternalFilling_Add>0</InternalFilling_Add>
+      <DemPanels_Name>Кромка ПВХ бук 0,4/19</DemPanels_Name>
+      <DemPanels_Kod>38</DemPanels_Kod>
+      <DemPanels_Designation>Бук0,4/19</DemPanels_Designation>
+      <DemPanels_Thickness>.5</DemPanels_Thickness>
+      <DemPanels_Type>1</DemPanels_Type>
+      <DemPanels_Width>0</DemPanels_Width>
+      <DemPanels_Cut>Y</DemPanels_Cut>
+      <DemPanels_Fixed>N</DemPanels_Fixed>
+      <DemPanels_Distance>0</DemPanels_Distance>
+      <DemPanels_Add>0</DemPanels_Add>
+      <DemPanelsBefore_Name>Кромка ПВХ бук 0,4/19</DemPanelsBefore_Name>
+      <DemPanelsBefore_Kod>38</DemPanelsBefore_Kod>
+      <DemPanelsBefore_Designation>Бук0,4/19</DemPanelsBefore_Designation>
+      <DemPanelsBefore_Thickness>.5</DemPanelsBefore_Thickness>
+      <DemPanelsBefore_Type>1</DemPanelsBefore_Type>
+      <DemPanelsBefore_Width>0</DemPanelsBefore_Width>
+      <DemPanelsBefore_Cut>Y</DemPanelsBefore_Cut>
+      <DemPanelsBefore_Fixed>N</DemPanelsBefore_Fixed>
+      <DemPanelsBefore_Distance>0</DemPanelsBefore_Distance>
+      <DemPanelsBefore_Add>0</DemPanelsBefore_Add>
+      <Socle_Name>Кромка ПВХ бук 0,4/19</Socle_Name>
+      <Socle_Kod>38</Socle_Kod>
+      <Socle_Designation>Бук0,4/19</Socle_Designation>
+      <Socle_Thickness>.5</Socle_Thickness>
+      <Socle_Type>1</Socle_Type>
+      <Socle_Width>0</Socle_Width>
+      <Socle_Cut>Y</Socle_Cut>
+      <Socle_Fixed>N</Socle_Fixed>
+      <Socle_Distance>0</Socle_Distance>
+      <Socle_Add>0</Socle_Add>
+      <Cover_Name>Кромка ПВХ бук 0,4/19</Cover_Name>
+      <Cover_Kod>38</Cover_Kod>
+      <Cover_Designation>Бук0,4/19</Cover_Designation>
+      <Cover_Thickness>.5</Cover_Thickness>
+      <Cover_Type>1</Cover_Type>
+      <Cover_Width>0</Cover_Width>
+      <Cover_Cut>Y</Cover_Cut>
+      <Cover_Fixed>N</Cover_Fixed>
+      <Cover_Distance>0</Cover_Distance>
+      <Cover_Add>0</Cover_Add>
+      <Bottom_Name>Кромка ПВХ бук 0,4/19</Bottom_Name>
+      <Bottom_Kod>38</Bottom_Kod>
+      <Bottom_Designation>Бук0,4/19</Bottom_Designation>
+      <Bottom_Thickness>.5</Bottom_Thickness>
+      <Bottom_Type>1</Bottom_Type>
+      <Bottom_Width>0</Bottom_Width>
+      <Bottom_Cut>Y</Bottom_Cut>
+      <Bottom_Fixed>N</Bottom_Fixed>
+      <Bottom_Distance>0</Bottom_Distance>
+      <Bottom_Add>0</Bottom_Add>
+      <AngularDemPanels_Name>Кромка ПВХ бук 0,4/19</AngularDemPanels_Name>
+      <AngularDemPanels_Kod>38</AngularDemPanels_Kod>
+      <AngularDemPanels_Designation>Бук0,4/19</AngularDemPanels_Designation>
+      <AngularDemPanels_Thickness>.5</AngularDemPanels_Thickness>
+      <AngularDemPanels_Type>1</AngularDemPanels_Type>
+      <AngularDemPanels_Width>0</AngularDemPanels_Width>
+      <AngularDemPanels_Cut>Y</AngularDemPanels_Cut>
+      <AngularDemPanels_Fixed>N</AngularDemPanels_Fixed>
+      <AngularDemPanels_Distance>0</AngularDemPanels_Distance>
+      <AngularDemPanels_Add>0</AngularDemPanels_Add>
+      <LateralPanelsAntr_Name/>
+      <LateralPanelsAntr_Kod/>
+      <LateralPanelsAntr_Designation/>
+      <LateralPanelsAntr_Thickness>0</LateralPanelsAntr_Thickness>
+      <LateralPanelsAntr_Type>1</LateralPanelsAntr_Type>
+      <LateralPanelsAntr_Width>0</LateralPanelsAntr_Width>
+      <LateralPanelsAntr_Cut>Y</LateralPanelsAntr_Cut>
+      <LateralPanelsAntr_Fixed>N</LateralPanelsAntr_Fixed>
+      <LateralPanelsAntr_Distance>0</LateralPanelsAntr_Distance>
+      <LateralPanelsAntr_Add>0</LateralPanelsAntr_Add>
+      <LateralPanelsRightAntr_Name/>
+      <LateralPanelsRightAntr_Kod/>
+      <LateralPanelsRightAntr_Designation/>
+      <LateralPanelsRightAntr_Thickness>0</LateralPanelsRightAntr_Thickness>
+      <LateralPanelsRightAntr_Type>1</LateralPanelsRightAntr_Type>
+      <LateralPanelsRightAntr_Width>0</LateralPanelsRightAntr_Width>
+      <LateralPanelsRightAntr_Cut>Y</LateralPanelsRightAntr_Cut>
+      <LateralPanelsRightAntr_Fixed>N</LateralPanelsRightAntr_Fixed>
+      <LateralPanelsRightAntr_Distance>0</LateralPanelsRightAntr_Distance>
+      <LateralPanelsRightAntr_Add>0</LateralPanelsRightAntr_Add>
+      <InternalFillingAntr_Name/>
+      <InternalFillingAntr_Kod/>
+      <InternalFillingAntr_Designation/>
+      <InternalFillingAntr_Thickness>0</InternalFillingAntr_Thickness>
+      <InternalFillingAntr_Type>1</InternalFillingAntr_Type>
+      <InternalFillingAntr_Width>0</InternalFillingAntr_Width>
+      <InternalFillingAntr_Cut>Y</InternalFillingAntr_Cut>
+      <InternalFillingAntr_Fixed>N</InternalFillingAntr_Fixed>
+      <InternalFillingAntr_Distance>0</InternalFillingAntr_Distance>
+      <InternalFillingAntr_Add>0</InternalFillingAntr_Add>
+      <DemPanelsAntr_Name/>
+      <DemPanelsAntr_Kod/>
+      <DemPanelsAntr_Designation/>
+      <DemPanelsAntr_Thickness>0</DemPanelsAntr_Thickness>
+      <DemPanelsAntr_Type>1</DemPanelsAntr_Type>
+      <DemPanelsAntr_Width>0</DemPanelsAntr_Width>
+      <DemPanelsAntr_Cut>Y</DemPanelsAntr_Cut>
+      <DemPanelsAntr_Fixed>N</DemPanelsAntr_Fixed>
+      <DemPanelsAntr_Distance>0</DemPanelsAntr_Distance>
+      <DemPanelsAntr_Add>0</DemPanelsAntr_Add>
+      <DemPanelsBeforeAntr_Name/>
+      <DemPanelsBeforeAntr_Kod/>
+      <DemPanelsBeforeAntr_Designation/>
+      <DemPanelsBeforeAntr_Thickness>0</DemPanelsBeforeAntr_Thickness>
+      <DemPanelsBeforeAntr_Type>1</DemPanelsBeforeAntr_Type>
+      <DemPanelsBeforeAntr_Width>0</DemPanelsBeforeAntr_Width>
+      <DemPanelsBeforeAntr_Cut>Y</DemPanelsBeforeAntr_Cut>
+      <DemPanelsBeforeAntr_Fixed>N</DemPanelsBeforeAntr_Fixed>
+      <DemPanelsBeforeAntr_Distance>0</DemPanelsBeforeAntr_Distance>
+      <DemPanelsBeforeAntr_Add>0</DemPanelsBeforeAntr_Add>
+      <CoverAntr_Name/>
+      <CoverAntr_Kod/>
+      <CoverAntr_Designation/>
+      <CoverAntr_Thickness>0</CoverAntr_Thickness>
+      <CoverAntr_Type>1</CoverAntr_Type>
+      <CoverAntr_Width>0</CoverAntr_Width>
+      <CoverAntr_Cut>Y</CoverAntr_Cut>
+      <CoverAntr_Fixed>N</CoverAntr_Fixed>
+      <CoverAntr_Distance>0</CoverAntr_Distance>
+      <CoverAntr_Add>0</CoverAntr_Add>
+      <BottomAntr_Name/>
+      <BottomAntr_Kod/>
+      <BottomAntr_Designation/>
+      <BottomAntr_Thickness>0</BottomAntr_Thickness>
+      <BottomAntr_Type>1</BottomAntr_Type>
+      <BottomAntr_Width>0</BottomAntr_Width>
+      <BottomAntr_Cut>Y</BottomAntr_Cut>
+      <BottomAntr_Fixed>N</BottomAntr_Fixed>
+      <BottomAntr_Distance>0</BottomAntr_Distance>
+      <BottomAntr_Add>0</BottomAntr_Add>
+      <AngularDemPanelsAntr_Name/>
+      <AngularDemPanelsAntr_Kod/>
+      <AngularDemPanelsAntr_Designation/>
+      <AngularDemPanelsAntr_Thickness>0</AngularDemPanelsAntr_Thickness>
+      <AngularDemPanelsAntr_Type>1</AngularDemPanelsAntr_Type>
+      <AngularDemPanelsAntr_Width>0</AngularDemPanelsAntr_Width>
+      <AngularDemPanelsAntr_Cut>Y</AngularDemPanelsAntr_Cut>
+      <AngularDemPanelsAntr_Fixed>N</AngularDemPanelsAntr_Fixed>
+      <AngularDemPanelsAntr_Distance>0</AngularDemPanelsAntr_Distance>
+      <AngularDemPanelsAntr_Add>0</AngularDemPanelsAntr_Add>
+    </PanelsInvisibleFacing>
+    <IndividuallyCover>
+      <Left_Name/>
+      <Left_Kod/>
+      <Left_Designation/>
+      <Left_Thickness>0</Left_Thickness>
+      <Left_Type>1</Left_Type>
+      <Left_Width>0</Left_Width>
+      <Left_Cut>Y</Left_Cut>
+      <Left_Fixed>N</Left_Fixed>
+      <Left_Distance>0</Left_Distance>
+      <Left_Add>0</Left_Add>
+      <Back_Name/>
+      <Back_Kod/>
+      <Back_Designation/>
+      <Back_Thickness>0</Back_Thickness>
+      <Back_Type>1</Back_Type>
+      <Back_Width>0</Back_Width>
+      <Back_Cut>Y</Back_Cut>
+      <Back_Fixed>N</Back_Fixed>
+      <Back_Distance>0</Back_Distance>
+      <Back_Add>0</Back_Add>
+      <Right_Name/>
+      <Right_Kod/>
+      <Right_Designation/>
+      <Right_Thickness>0</Right_Thickness>
+      <Right_Type>1</Right_Type>
+      <Right_Width>0</Right_Width>
+      <Right_Cut>Y</Right_Cut>
+      <Right_Fixed>N</Right_Fixed>
+      <Right_Distance>0</Right_Distance>
+      <Right_Add>0</Right_Add>
+      <Front_Name/>
+      <Front_Kod/>
+      <Front_Designation/>
+      <Front_Thickness>0</Front_Thickness>
+      <Front_Type>1</Front_Type>
+      <Front_Width>0</Front_Width>
+      <Front_Cut>Y</Front_Cut>
+      <Front_Fixed>N</Front_Fixed>
+      <Front_Distance>0</Front_Distance>
+      <Front_Add>0</Front_Add>
+    </IndividuallyCover>
+    <IndividuallyBottom>
+      <Left_Name/>
+      <Left_Kod/>
+      <Left_Designation/>
+      <Left_Thickness>0</Left_Thickness>
+      <Left_Type>1</Left_Type>
+      <Left_Width>0</Left_Width>
+      <Left_Cut>Y</Left_Cut>
+      <Left_Fixed>N</Left_Fixed>
+      <Left_Distance>0</Left_Distance>
+      <Left_Add>0</Left_Add>
+      <Back_Name/>
+      <Back_Kod/>
+      <Back_Designation/>
+      <Back_Thickness>0</Back_Thickness>
+      <Back_Type>1</Back_Type>
+      <Back_Width>0</Back_Width>
+      <Back_Cut>Y</Back_Cut>
+      <Back_Fixed>N</Back_Fixed>
+      <Back_Distance>0</Back_Distance>
+      <Back_Add>0</Back_Add>
+      <Right_Name/>
+      <Right_Kod/>
+      <Right_Designation/>
+      <Right_Thickness>0</Right_Thickness>
+      <Right_Type>1</Right_Type>
+      <Right_Width>0</Right_Width>
+      <Right_Cut>Y</Right_Cut>
+      <Right_Fixed>N</Right_Fixed>
+      <Right_Distance>0</Right_Distance>
+      <Right_Add>0</Right_Add>
+      <Front_Name/>
+      <Front_Kod/>
+      <Front_Designation/>
+      <Front_Thickness>0</Front_Thickness>
+      <Front_Type>1</Front_Type>
+      <Front_Width>0</Front_Width>
+      <Front_Cut>Y</Front_Cut>
+      <Front_Fixed>N</Front_Fixed>
+      <Front_Distance>0</Front_Distance>
+      <Front_Add>0</Front_Add>
+    </IndividuallyBottom>
+  </Facing>
+  <Parameters>
+    <СonstructionParameters>
+      <BacklashKupeFromMech>Y</BacklashKupeFromMech>
+      <BacklashKupeMech>10</BacklashKupeMech>
+      <BacklashKupeFront>150</BacklashKupeFront>
+      <BacklashOpen>0</BacklashOpen>
+      <LoopClearanceY>35</LoopClearanceY>
+      <LoopClearanceZ>25</LoopClearanceZ>
+      <AutomaticSizes>N</AutomaticSizes>
+      <OneNameForTemp>Y</OneNameForTemp>
+      <DeleteTemp>Y</DeleteTemp>
+      <FixtureImage>Y</FixtureImage>
+      <MinSizeSection>0</MinSizeSection>
+      <MinSizePanel>50</MinSizePanel>
+      <MaxSizePanel>2800</MaxSizePanel>
+      <MinDistanceBetweenDemPanels>0</MinDistanceBetweenDemPanels>
+      <BoxesBacklash>5</BoxesBacklash>
+      <BoxesBacklashH>5</BoxesBacklashH>
+      <MaxSizeForGorizont>900</MaxSizeForGorizont>
+      <MaxAreaWithoutLining>0</MaxAreaWithoutLining>
+      <AutomaticKrom>N</AutomaticKrom>
+      <Accuracy>.5</Accuracy>
+      <ImposingOnRigidity>20</ImposingOnRigidity>
+      <DemPanelsBacklash>2</DemPanelsBacklash>
+      <HowToPutBoxes>3</HowToPutBoxes>
+      <DoorsIfMirror>N</DoorsIfMirror>
+      <BoxesPutSize>1</BoxesPutSize>
+      <ShkafPutSize>7</ShkafPutSize>
+      <IndexMiK>0</IndexMiK>
+      <HintTimeUpTo>100</HintTimeUpTo>
+      <FloorSurfaceFor>50</FloorSurfaceFor>
+      <FloorSurfaceDepth>50</FloorSurfaceDepth>
+      <FloorSurfaceGrid>0</FloorSurfaceGrid>
+      <FloorSurfaceExists>Y</FloorSurfaceExists>
+      <FloorSurfaceColor>$0000FF00</FloorSurfaceColor>
+      <HowToPutSizeVert>2</HowToPutSizeVert>
+      <HowToPutSizeGor>2</HowToPutSizeGor>
+      <HowToPutSizeDemPanels>2</HowToPutSizeDemPanels>
+      <HowToPutSizeZone>0</HowToPutSizeZone>
+      <ZoneSize>0</ZoneSize>
+      <ZoneSizeGor>0</ZoneSizeGor>
+      <WhenceVert>1</WhenceVert>
+      <PutSizeOnAperture>N</PutSizeOnAperture>
+      <PutSizeOnSize>Y</PutSizeOnSize>
+      <PutSizeInSection>N</PutSizeInSection>
+      <ChangePanelsNames>N</ChangePanelsNames>
+      <LaterPanelsFromSLKM>Y</LaterPanelsFromSLKM>
+      <LaterPanelsFromSLKMRight>Y</LaterPanelsFromSLKMRight>
+      <InternalFillFromSLKM>Y</InternalFillFromSLKM>
+      <DemPanelsAfterFromSLKM>Y</DemPanelsAfterFromSLKM>
+      <DemPanelsBeforeFromSLKM>Y</DemPanelsBeforeFromSLKM>
+      <SocleFromSLKM>Y</SocleFromSLKM>
+      <CoverFromSLKM>Y</CoverFromSLKM>
+      <BottomFromSLKM>Y</BottomFromSLKM>
+      <AngularDemPanelsFromSLKM>N</AngularDemPanelsFromSLKM>
+      <LaterPanelsFromSLKMAntr>N</LaterPanelsFromSLKMAntr>
+      <LaterPanelsFromSLKMRightAntr>N</LaterPanelsFromSLKMRightAntr>
+      <InternalFillFromSLKMAntr>N</InternalFillFromSLKMAntr>
+      <DemPanelsAfterFromSLKMAntr>N</DemPanelsAfterFromSLKMAntr>
+      <DemPanelsBeforeFromSLKMAntr>N</DemPanelsBeforeFromSLKMAntr>
+      <CoverFromSLKMAntr>N</CoverFromSLKMAntr>
+      <BottomFromSLKMAntr>N</BottomFromSLKMAntr>
+      <AngularDemPanelsFromSLKMAntr>N</AngularDemPanelsFromSLKMAntr>
+      <ChoiceVnutrMatFromSLKM>Y</ChoiceVnutrMatFromSLKM>
+      <ChoiceKorpMatFromSLKM>Y</ChoiceKorpMatFromSLKM>
+      <ChangeCurrentFacing>Y</ChangeCurrentFacing>
+      <ChangeCurrentMaterial>Y</ChangeCurrentMaterial>
+      <ChangeCurrentFasteners>Y</ChangeCurrentFasteners>
+      <UnionAllCovers>Y</UnionAllCovers>
+      <CutBackWallOnRigidity>Y</CutBackWallOnRigidity>
+      <MakeCutOnVert>N</MakeCutOnVert>
+      <CurveGorPanelsForms>0</CurveGorPanelsForms>
+      <SocleTextureIsGor>Y</SocleTextureIsGor>
+      <RodTextureIsGor>Y</RodTextureIsGor>
+      <QueryArticle>Y</QueryArticle>
+      <SortedSLKM>Y</SortedSLKM>
+      <B3dIsShn>Y</B3dIsShn>
+      <IfPutKupe>2</IfPutKupe>
+      <IfPutBoxes>1</IfPutBoxes>
+      <DeleteWhenPattern>Y</DeleteWhenPattern>
+      <PatternHMin>100</PatternHMin>
+      <PatternLMin>100</PatternLMin>
+      <SawPaz>Y</SawPaz>
+      <AntrBackNo>N</AntrBackNo>
+      <MillPazDistanceX>5</MillPazDistanceX>
+      <MillPazDistanceY>0</MillPazDistanceY>
+      <BackWallBacklash>5</BackWallBacklash>
+      <OnlyDoors>N</OnlyDoors>
+      <TypeOnlyDoors>2</TypeOnlyDoors>
+      <DoorsLibrary>C:\Users\VladimirWorkPC\Documents\Bazis\Библиотека дверей\Двери.bdl</DoorsLibrary>
+      <OnlyDoorsWidth>100</OnlyDoorsWidth>
+      <OnlyDoorsDX>200</OnlyDoorsDX>
+      <OnlyDoorsFi>45</OnlyDoorsFi>
+      <OnlyDoorsL>800</OnlyDoorsL>
+      <OnlyDoorsCurve>N</OnlyDoorsCurve>
+      <OnlyDoorsParall>Y</OnlyDoorsParall>
+      <OnlyDoorsHow>0</OnlyDoorsHow>
+      <OnlyDoorsDown>Y</OnlyDoorsDown>
+      <KromTopAlwaysVisible>Y</KromTopAlwaysVisible>
+      <KromBotAlwaysNotVisible>Y</KromBotAlwaysNotVisible>
+      <MaxSideVisibleKrom>1600</MaxSideVisibleKrom>
+      <MinDistVisibleKrom>1000</MinDistVisibleKrom>
+      <BackWallPazPazG>5</BackWallPazPazG>
+      <BackWallPazPazL>4</BackWallPazPazL>
+      <BackWallPazPazO>12</BackWallPazPazO>
+      <BackWallPazPazName>Паз под Quadro</BackWallPazPazName>
+      <BackWallPazPazSign>Quadro</BackWallPazPazSign>
+      <BackWallPazPazType>2</BackWallPazPazType>
+      <BackWallPazStiffPazG>5</BackWallPazStiffPazG>
+      <BackWallPazStiffPazL>4</BackWallPazStiffPazL>
+      <BackWallPazStiffPazO>5</BackWallPazStiffPazO>
+      <BackWallPazStiffPazName>Паз под ДВП</BackWallPazStiffPazName>
+      <BackWallPazStiffPazSign>Паз 4х5</BackWallPazStiffPazSign>
+      <BackWallPazStiffPazType>0</BackWallPazStiffPazType>
+    </СonstructionParameters>
+  </Parameters>
+  <Furniture>
+    <StangaKuda>0</StangaKuda>
+    <StangaSkolko>0</StangaSkolko>
+    <SameSupport>Y</SameSupport>
+    <SamePodves>N</SamePodves>
+  </Furniture>
+  <AngularCabinet>
+    <CollLeft>1</CollLeft>
+    <CollRight>1</CollRight>
+    <CollLeftAntr>1</CollLeftAntr>
+    <CollRightAntr>1</CollRightAntr>
+    <SocleType>0</SocleType>
+    <SocleX1>50</SocleX1>
+    <SocleX2>200</SocleX2>
+    <SocleY1>50</SocleY1>
+    <SocleY2>200</SocleY2>
+  </AngularCabinet>
+  <SectionWithBoxes>
+    <BSExist>N</BSExist>
+    <BSExistBack>N</BSExistBack>
+    <BSInside>Y</BSInside>
+    <BSBoxesExist>Y</BSBoxesExist>
+    <BSHowMake>0</BSHowMake>
+    <BSAround>20</BSAround>
+    <BSFromFront>0</BSFromFront>
+    <BSFromBack>0</BSFromBack>
+    <BSExistMont>Y</BSExistMont>
+    <BSMontSingle>N</BSMontSingle>
+    <BSMontWidth>100</BSMontWidth>
+    <BSMat_Name/>
+    <BSMat_Kod/>
+    <BSMat_Thickness>0</BSMat_Thickness>
+    <BSMat_Type>0</BSMat_Type>
+    <BSMat_Width>0</BSMat_Width>
+  </SectionWithBoxes>
+</Settings>

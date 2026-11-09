@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CutEdge>
+  <Cuts>
+    <Cut>
+      <CutType>ctRectangle</CutType>
+      <Name>Паз в пласти 4х5</Name>
+      <Sign>ПП4х5</Sign>
+      <Depth>5</Depth>
+      <Width>4</Width>
+      <Offset>10</Offset>
+      <Offset2>0</Offset2>
+      <Angle>0</Angle>
+      <Radius>0</Radius>
+      <Fragment/>
+    </Cut>
+    <Cut>
+      <CutType>ctRectangle</CutType>
+      <Name>Паз под Quadro</Name>
+      <Sign>Quadro</Sign>
+      <Depth>5</Depth>
+      <Width>4</Width>
+      <Offset>12</Offset>
+      <Offset2>0</Offset2>
+      <Angle>0</Angle>
+      <Radius>0</Radius>
+      <Fragment/>
+    </Cut>
+    <Cut>
+      <CutType>ctRounding</CutType>
+      <Name>Скругление</Name>
+      <Sign>R5</Sign>
+      <Depth>0</Depth>
+      <Width>0</Width>
+      <Offset>0</Offset>
+      <Offset2>0</Offset2>
+      <Angle>0</Angle>
+      <Radius>25</Radius>
+      <Fragment/>
+    </Cut>
+    <Cut>
+      <CutType>ctFlatFaceA</CutType>
+      <Name>Спил 22,5</Name>
+      <Sign>Сп22,5</Sign>
+      <Depth>0</Depth>
+      <Width>0</Width>
+      <Offset>0</Offset>
+      <Offset2>0</Offset2>
+      <Angle>22.5</Angle>
+      <Radius>0</Radius>
+      <Fragment/>
+    </Cut>
+    <Cut>
+      <CutType>ctRectangle</CutType>
+      <Name>Паз под Double</Name>
+      <Sign>Double</Sign>
+      <Depth>6</Depth>
+      <Width>8</Width>
+      <Offset>10</Offset>
+      <Offset2>0</Offset2>
+      <Angle>0</Angle>
+      <Radius>0</Radius>
+      <Fragment/>
+    </Cut>
+    <Cut>
+      <CutType>ctQuarter</CutType>
+      <Name>Четверть 4х10</Name>
+      <Sign>Ч4х10</Sign>
+      <Depth>10</Depth>
+      <Width>4</Width>
+      <Offset>0</Offset>
+      <Offset2>0</Offset2>
+      <Angle>0</Angle>
+      <Radius>0</Radius>
+      <Fragment/>
+    </Cut>
+    <Cut>
+      <CutType>ctButtEnd</CutType>
+      <Name>Паз в торце 4х10</Name>
+      <Sign>ПТ4х10</Sign>
+      <Depth>10</Depth>
+      <Width>4</Width>
+      <Offset>6</Offset>
+      <Offset2>0</Offset2>
+      <Angle>0</Angle>
+      <Radius>0</Radius>
+      <Fragment/>
+    </Cut>
+    <Cut>
+      <CutType>ctPocket</CutType>
+      <Name>Выемка В=12</Name>
+      <Sign>В1</Sign>
+      <Depth>120</Depth>
+      <Width>0</Width>
+      <Offset>0</Offset>
+      <Offset2>0</Offset2>
+      <Angle>0</Angle>
+      <Radius>0</Radius>
+      <Fragment/>
+    </Cut>
+    <Cut>
+      <CutType>ctPocket</CutType>
+      <Name>Выемка G=8</Name>
+      <Sign>В2</Sign>
+      <Depth>8</Depth>
+      <Width>0</Width>
+      <Offset>0</Offset>
+      <Offset2>0</Offset2>
+      <Angle>0</Angle>
+      <Radius>0</Radius>
+      <Fragment/>
+    </Cut>
+    <Cut>
+      <CutType>ctPocket</CutType>
+      <Name>Выемка G=10</Name>
+      <Sign>В3</Sign>
+      <Depth>10</Depth>
+      <Width>0</Width>
+      <Offset>0</Offset>
+      <Offset2>0</Offset2>
+      <Angle>0</Angle>
+      <Radius>0</Radius>
+      <Fragment/>
+    </Cut>
+    <Cut>
+      <CutType>ctButtEnd</CutType>
+      <Name>Паз в торце 3х13</Name>
+      <Sign>ПТ3х13</Sign>
+      <Depth>13</Depth>
+      <Width>3</Width>
+      <Offset>7.5</Offset>
+      <Offset2>0</Offset2>
+      <Angle>0</Angle>
+      <Radius>0</Radius>
+      <Fragment/>
+    </Cut>
+  </Cuts>
+  <Edges/>
+</CutEdge>

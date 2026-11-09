@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <Set3D>
+    <DrawMode>3</DrawMode>
+    <Projection>1</Projection>
+    <BackColor>16777215</BackColor>
+    <BackColorTop>16777215</BackColorTop>
+    <GripColor>16711935</GripColor>
+    <HighlightedColor>8421376</HighlightedColor>
+    <GridColor>0</GridColor>
+    <SelectedTextureColor>16733525</SelectedTextureColor>
+    <SelectedLineColor>16776960</SelectedLineColor>
+    <HideLineColor>8421504</HideLineColor>
+    <Elem2DColor>8421376</Elem2DColor>
+    <BackgroundImage/>
+    <BackgroundMode>0</BackgroundMode>
+    <PerspAspect>5</PerspAspect>
+    <Animation>N</Animation>
+    <AnimationTime>245</AnimationTime>
+    <TextureDefault/>
+    <SmoothLines>N</SmoothLines>
+    <SmoothFaces>0</SmoothFaces>
+    <ArcQuality>.027112639</ArcQuality>
+    <CommandMode>0</CommandMode>
+    <SavePreviewInFile>Y</SavePreviewInFile>
+    <DepthUndo>100</DepthUndo>
+    <SaveUndoInFile>Y</SaveUndoInFile>
+    <AutoPoints>Y</AutoPoints>
+    <SelectAux>N</SelectAux>
+    <MiddleButtonChangeView>Y</MiddleButtonChangeView>
+    <C3DExperimental>Y</C3DExperimental>
+    <MiddleButtonInvMode>N</MiddleButtonInvMode>
+    <NullMaterialColor>255</NullMaterialColor>
+    <DrawNullMtAsDefault>Y</DrawNullMtAsDefault>
+    <HighlightActiveMaterial>Y</HighlightActiveMaterial>
+    <ShowMaterialPreview>N</ShowMaterialPreview>
+    <EdgesHighlight>N</EdgesHighlight>
+    <InsertIntoBlock>N</InsertIntoBlock>
+    <SelectionUsingShift>N</SelectionUsingShift>
+    <AutomaticEditorProjection>N</AutomaticEditorProjection>
+    <NumberingObjects>N</NumberingObjects>
+    <ManualPanelNaming>N</ManualPanelNaming>
+    <ActiveColor>$1FFFFFFF</ActiveColor>
+    <CapturePlaneColor>$00FF5555</CapturePlaneColor>
+    <CapturePlaneColor2>$00808000</CapturePlaneColor2>
+    <CapturePlaneTransparency>.25</CapturePlaneTransparency>
+    <ElasticPlaneColor>$00FF00FF</ElasticPlaneColor>
+    <ShowHoleAxes>1</ShowHoleAxes>
+    <HoleAxesOffset>10</HoleAxesOffset>
+    <SelectFasteners>Y</SelectFasteners>
+    <SelectObjectsInsideBlocks>N</SelectObjectsInsideBlocks>
+    <AutoEdit>N</AutoEdit>
+    <LinkingAutoEdit>N</LinkingAutoEdit>
+    <SoftwareRendering>N</SoftwareRendering>
+    <ChangeBodyContourOnElasticResize>Y</ChangeBodyContourOnElasticResize>
+    <Scripts>
+      <Script>
+        <Path>C:\Users\VladimirWorkPC\Documents\Bazis\Scripts\1_Смена_цвета_ЛДСП_и_кромки_(Типовой_заказ).js</Path>
+        <Key>120</Key>
+      </Script>
+      <Script>
+        <Path>C:\Users\VladimirWorkPC\Documents\Bazis\Scripts\2_Расстановка_децимальных_шифров_ГОСТ.js</Path>
+        <Key>121</Key>
+      </Script>
+    </Scripts>
+    <Analyze/>
+    <CheckB4Saving/>
+  </Set3D>
+  <Main>
+    <Language>ru</Language>
+    <RecentFilesCount>5</RecentFilesCount>
+    <RecentFiles>C:\Users\VladimirWorkPC\Documents\Bazis\3333_ДВП_ламинированная_клен_(56)_(1).ldw
+C:\Users\VladimirWorkPC\Documents\Bazis\3333 ДВП ламинированная клен (56) (1)-Накладная на передачу панелей в производство.ldw
+C:\Users\VladimirWorkPC\Documents\Bazis\3333 ДВП ламинированная клен (56) (1)-Ведомость на закупку плит.ldw
+C:\Users\VladimirWorkPC\Documents\Bazis\3333 ДВП ламинированная клен (56) (1)-Накладная на передачу обрезков на склад.ldw
+C:\Users\VladimirWorkPC\Documents\Bazis\3333_ДСП_бук_16_(1).ldw
+C:\Temp\$$$BazisTempFile.b3d
+C:\Users\VladimirWorkPC\Documents\Bazis\Модель1.shn
+</RecentFiles>
+    <ShowAllTypes>N</ShowAllTypes>
+    <RecentCabinetsCount>5</RecentCabinetsCount>
+    <RecentCabinets/>
+    <RecentLibrariesCount>5</RecentLibrariesCount>
+    <RecentLibrary/>
+    <RecentWorkLibrary/>
+    <ListOpenPackFiles>C:\Temp\$$$RaskrTempFile.b3d
+</ListOpenPackFiles>
+    <AutoSaveTime>3</AutoSaveTime>
+    <DeleteAutoSaveFiles>N</DeleteAutoSaveFiles>
+    <DigitsCount>3</DigitsCount>
+    <ExplorerView>0</ExplorerView>
+    <LibPreviewFile>Y</LibPreviewFile>
+    <LibraryPreviewFileAlign>0</LibraryPreviewFileAlign>
+    <ProjectPreviewFile>N</ProjectPreviewFile>
+    <ProjectPreviewFileAlign>Y</ProjectPreviewFileAlign>
+    <ProjectPreviewFileSize>5</ProjectPreviewFileSize>
+    <ProjectFormatSign>%A.%P</ProjectFormatSign>
+    <LibCopyFile>Y</LibCopyFile>
+    <ModelTreePreview>Y</ModelTreePreview>
+    <ModelTreePreviewAlign>0</ModelTreePreviewAlign>
+    <ActivateDockWindow>Y</ActivateDockWindow>
+    <ClickOnMouseUp>N</ClickOnMouseUp>
+    <OpenDialogPreview>Y</OpenDialogPreview>
+    <CursorSize>24</CursorSize>
+    <CursorColor>0</CursorColor>
+    <MaterialNameWithArticul>Y</MaterialNameWithArticul>
+    <CheckForUpdates>Y</CheckForUpdates>
+    <DeveloperMode>N</DeveloperMode>
+    <ShowOnlineTimer>Y</ShowOnlineTimer>
+    <SalonFreePCID>0</SalonFreePCID>
+    <FreezeTimeout>120</FreezeTimeout>
+    <ChildTabMaxSymbols>50</ChildTabMaxSymbols>
+    <RestoreVisibilityAfterLoading3D>Y</RestoreVisibilityAfterLoading3D>
+    <RunCutting>-1</RunCutting>
+    <RunRender>-1</RunRender>
+    <DrawingsInterface>
+      <PageIndexMain>1</PageIndexMain>
+      <PageIndexAdv>0</PageIndexAdv>
+      <PageIndexDrawing>0</PageIndexDrawing>
+      <PageIndexAssembly>0</PageIndexAssembly>
+      <PageIndexSpecif>1</PageIndexSpecif>
+    </DrawingsInterface>
+  </Main>
+  <Furniture>
+    <Gabarits>
+      <Width>200</Width>
+      <Height>300</Height>
+      <Depth>100</Depth>
+      <GridSize>0</GridSize>
+      <FastWidth>100</FastWidth>
+      <FastHeight>100</FastHeight>
+      <FastDepth>100</FastDepth>
+      <FragWidth>100</FragWidth>
+      <FragHeight>100</FragHeight>
+      <FragDepth>100</FragDepth>
+      <LimitsColor>65280</LimitsColor>
+      <LimitsVisible>Y</LimitsVisible>
+    </Gabarits>
+    <Offsets>
+      <Left>0</Left>
+      <Right>0</Right>
+      <Top>0</Top>
+      <Bottom>0</Bottom>
+    </Offsets>
+    <AutoNamePanels>Y</AutoNamePanels>
+    <Parametrization>N</Parametrization>
+  </Furniture>
+  <Paths>
+    <LastActive>Фрагменты</LastActive>
+    <PathB3D>C:\Users\VladimirWorkPC\Documents\Bazis\</PathB3D>
+    <PathB3D_ext>.b3d</PathB3D_ext>
+    <PathB3D_descr>Модели</PathB3D_descr>
+    <PathB3D_lang>ru</PathB3D_lang>
+    <PathLDW>C:\Users\VladimirWorkPC\Documents\Bazis\</PathLDW>
+    <PathLDW_ext>.ldw</PathLDW_ext>
+    <PathLDW_descr>Чертежи</PathLDW_descr>
+    <PathLDW_lang>ru</PathLDW_lang>
+    <PathTEMPLATES>C:\Users\VladimirWorkPC\Documents\Bazis\Templates\</PathTEMPLATES>
+    <PathTEMPLATES_ext>.ldwt.b3dt.f3dt</PathTEMPLATES_ext>
+    <PathTEMPLATES_descr>Шаблоны</PathTEMPLATES_descr>
+    <PathTEMPLATES_lang>ru</PathTEMPLATES_lang>
+    <PathFRW>C:\Users\VladimirWorkPC\Documents\Bazis\Фрагменты\</PathFRW>
+    <PathFRW_ext>.fr3d.frw</PathFRW_ext>
+    <PathFRW_descr>Фрагменты</PathFRW_descr>
+    <PathFRW_lang>ru</PathFRW_lang>
+    <PathBLF>C:\Users\VladimirWorkPC\Documents\Bazis\</PathBLF>
+    <PathBLF_ext>.bln.blf</PathBLF_ext>
+    <PathBLF_descr>Библиотеки документов</PathBLF_descr>
+    <PathBLF_lang>ru</PathBLF_lang>
+    <PathFastener>C:\Users\VladimirWorkPC\Documents\Bazis\Фурнитура\</PathFastener>
+    <PathFastener_ext>.f3d.config</PathFastener_ext>
+    <PathFastener_descr>Крепеж, фурнитура</PathFastener_descr>
+    <PathFastener_lang>ru</PathFastener_lang>
+    <PathMtBase>C:\Users\VladimirWorkPC\Documents\Bazis\Учебная база материалов\</PathMtBase>
+    <PathMtBase_ext>.fdb</PathMtBase_ext>
+    <PathMtBase_descr>База материалов</PathMtBase_descr>
+    <PathMtBase_lang>ru</PathMtBase_lang>
+    <PathBOXES>C:\Users\VladimirWorkPC\Documents\Bazis\</PathBOXES>
+    <PathBOXES_ext>.bbb.bb</PathBOXES_ext>
+    <PathBOXES_descr>Библиотеки ящиков</PathBOXES_descr>
+    <PathBOXES_lang>ru</PathBOXES_lang>
+    <PathBOXX>C:\Users\VladimirWorkPC\Documents\Bazis\</PathBOXX>
+    <PathBOXX_ext>.boxx</PathBOXX_ext>
+    <PathBOXX_descr/>
+    <PathBOXX_lang/>
+    <PathDOORS>C:\Users\VladimirWorkPC\Documents\Bazis\</PathDOORS>
+    <PathDOORS_ext>.bdl</PathDOORS_ext>
+    <PathDOORS_descr>Библиотеки дверей</PathDOORS_descr>
+    <PathDOORS_lang>ru</PathDOORS_lang>
+    <PathDOORX>C:\Users\VladimirWorkPC\Documents\Bazis\</PathDOORX>
+    <PathDOORX_ext>.doorx</PathDOORX_ext>
+    <PathDOORX_descr/>
+    <PathDOORX_lang/>
+    <PathTXT>C:\Users\VladimirWorkPC\Documents\Bazis\</PathTXT>
+    <PathTXT_ext>.txt.dbf.xml.xls.doc.spc.spt.stm</PathTXT_ext>
+    <PathTXT_descr>Текстовые документы</PathTXT_descr>
+    <PathTXT_lang>ru</PathTXT_lang>
+    <PathPRK>C:\Users\VladimirWorkPC\Documents\Bazis\</PathPRK>
+    <PathPRK_ext>.bprj</PathPRK_ext>
+    <PathPRK_descr>Проекты</PathPRK_descr>
+    <PathPRK_lang>ru</PathPRK_lang>
+    <PathTEXTUR>C:\Users\VladimirWorkPC\Documents\Bazis\</PathTEXTUR>
+    <PathTEXTUR_ext>.bmp.jpg.jpeg.png</PathTEXTUR_ext>
+    <PathTEXTUR_descr>Текстуры</PathTEXTUR_descr>
+    <PathTEXTUR_lang>ru</PathTEXTUR_lang>
+    <PathBlumDir>C:\Users\VladimirWorkPC\Documents\Bazis\</PathBlumDir>
+    <PathBlumDir_ext/>
+    <PathBlumDir_descr>Папка программы Blum</PathBlumDir_descr>
+    <PathBlumDir_lang>ru</PathBlumDir_lang>
+    <PathBlumFiles>C:\Users\VladimirWorkPC\Documents\Bazis\Blum\</PathBlumFiles>
+    <PathBlumFiles_ext>.bxf</PathBlumFiles_ext>
+    <PathBlumFiles_descr>Каталог корпусов Blum Dynaplan</PathBlumFiles_descr>
+    <PathBlumFiles_lang>ru</PathBlumFiles_lang>
+    <PathIMPORTEXPORT>C:\Users\VladimirWorkPC\Documents\Bazis\</PathIMPORTEXPORT>
+    <PathIMPORTEXPORT_ext>.3ds.wrl.wrz.obj.dae.x3d.x3dv.md3.salon</PathIMPORTEXPORT_ext>
+    <PathIMPORTEXPORT_descr>Импорт/экспорт</PathIMPORTEXPORT_descr>
+    <PathIMPORTEXPORT_lang>ru</PathIMPORTEXPORT_lang>
+    <PathTEMP>C:\Users\VladimirWorkPC\Documents\Bazis\Autosave\</PathTEMP>
+    <PathTEMP_ext/>
+    <PathTEMP_descr>Временные файлы</PathTEMP_descr>
+    <PathTEMP_lang>ru</PathTEMP_lang>
+    <PathBazaZakaz>C:\Users\VladimirWorkPC\Documents\Bazis\</PathBazaZakaz>
+    <PathBazaZakaz_ext>.ord.zkz</PathBazaZakaz_ext>
+    <PathBazaZakaz_descr>Заявки для склада</PathBazaZakaz_descr>
+    <PathBazaZakaz_lang>ru</PathBazaZakaz_lang>
+    <PathCMT>C:\Users\VladimirWorkPC\Documents\Bazis\</PathCMT>
+    <PathCMT_ext>.est</PathCMT_ext>
+    <PathCMT_descr>Сметы</PathCMT_descr>
+    <PathCMT_lang>ru</PathCMT_lang>
+    <PathRaskr>C:\Users\VladimirWorkPC\Documents\Bazis\</PathRaskr>
+    <PathRaskr_ext>.obl.cutjob.cutres</PathRaskr_ext>
+    <PathRaskr_descr>Файлы заготовок</PathRaskr_descr>
+    <PathRaskr_lang>ru</PathRaskr_lang>
+    <PathBir>C:\Users\VladimirWorkPC\Documents\Bazis\</PathBir>
+    <PathBir_ext>.bir</PathBir_ext>
+    <PathBir_descr>Файлы бирок</PathBir_descr>
+    <PathBir_lang>ru</PathBir_lang>
+    <PathObrAndZag>C:\Users\VladimirWorkPC\Documents\Bazis\</PathObrAndZag>
+    <PathObrAndZag_ext>.dat</PathObrAndZag_ext>
+    <PathObrAndZag_descr>Склад обрезков и заготовок</PathObrAndZag_descr>
+    <PathObrAndZag_lang>ru</PathObrAndZag_lang>
+    <PathPackage>C:\Users\VladimirWorkPC\Documents\Bazis\</PathPackage>
+    <PathPackage_ext>.pack</PathPackage_ext>
+    <PathPackage_descr>Файлы упаковки</PathPackage_descr>
+    <PathPackage_lang>ru</PathPackage_lang>
+    <PathBirShab>C:\Users\VladimirWorkPC\Documents\Bazis\Шаблоны бирки\</PathBirShab>
+    <PathBirShab_ext>.brx.br.bsb</PathBirShab_ext>
+    <PathBirShab_descr>Шаблоны бирки</PathBirShab_descr>
+    <PathBirShab_lang/>
+    <PathFastReportShab>C:\Users\VladimirWorkPC\Documents\Bazis\Шаблоны отчетов\Мебельщик\</PathFastReportShab>
+    <PathFastReportShab_ext>.fr3</PathFastReportShab_ext>
+    <PathFastReportShab_descr>Шаблоны отчетов БАЗИС-Мебельщик</PathFastReportShab_descr>
+    <PathFastReportShab_lang/>
+    <PathFastReportTemplateEstimate>C:\Users\VladimirWorkPC\Documents\Bazis\Шаблоны отчетов\Смета\</PathFastReportTemplateEstimate>
+    <PathFastReportTemplateEstimate_ext>.fr3</PathFastReportTemplateEstimate_ext>
+    <PathFastReportTemplateEstimate_descr>Шаблоны отчетов БАЗИС-Смета</PathFastReportTemplateEstimate_descr>
+    <PathFastReportTemplateEstimate_lang/>
+    <PathFastReportTemplateCutting>C:\Users\VladimirWorkPC\Documents\Bazis\Шаблоны отчетов\Раскрой\</PathFastReportTemplateCutting>
+    <PathFastReportTemplateCutting_ext>.fr3</PathFastReportTemplateCutting_ext>
+    <PathFastReportTemplateCutting_descr>Шаблоны отчетов БАЗИС-Раскрой</PathFastReportTemplateCutting_descr>
+    <PathFastReportTemplateCutting_lang/>
+    <PathPNC>C:\Users\VladimirWorkPC\Documents\Bazis\</PathPNC>
+    <PathPNC_ext/>
+    <PathPNC_descr>Файлы для ЧПУ</PathPNC_descr>
+    <PathPNC_lang>ru</PathPNC_lang>
+    <PathExcel>C:\Users\VladimirWorkPC\Documents\Bazis\</PathExcel>
+    <PathExcel_ext>.xls</PathExcel_ext>
+    <PathExcel_descr>Файлы Excel</PathExcel_descr>
+    <PathExcel_lang>ru</PathExcel_lang>
+    <PathSHN>C:\Users\VladimirWorkPC\Documents\Bazis\</PathSHN>
+    <PathSHN_ext>.shn</PathSHN_ext>
+    <PathSHN_descr>Шкафы</PathSHN_descr>
+    <PathSHN_lang>ru</PathSHN_lang>
+    <PathShNames>C:\Users\VladimirWorkPC\Documents\Bazis\</PathShNames>
+    <PathShNames_ext>.ish</PathShNames_ext>
+    <PathShNames_descr>Наименования панелей</PathShNames_descr>
+    <PathShNames_lang>ru</PathShNames_lang>
+    <PathShFasts>C:\Users\VladimirWorkPC\Documents\Bazis\</PathShFasts>
+    <PathShFasts_ext>.ksh</PathShFasts_ext>
+    <PathShFasts_descr>Варианты крепежа</PathShFasts_descr>
+    <PathShFasts_lang>ru</PathShFasts_lang>
+    <PathShAngleSec>C:\Users\VladimirWorkPC\Documents\Bazis\</PathShAngleSec>
+    <PathShAngleSec_ext>.ush</PathShAngleSec_ext>
+    <PathShAngleSec_descr>Параметры угловой секции</PathShAngleSec_descr>
+    <PathShAngleSec_lang>ru</PathShAngleSec_lang>
+    <PathShNormSh>C:\Users\VladimirWorkPC\Documents\Bazis\</PathShNormSh>
+    <PathShNormSh_ext>.nsh</PathShNormSh_ext>
+    <PathShNormSh_descr>Параметры прямого шкафа</PathShNormSh_descr>
+    <PathShNormSh_lang>ru</PathShNormSh_lang>
+    <PathShAngleSh>C:\Users\VladimirWorkPC\Documents\Bazis\</PathShAngleSh>
+    <PathShAngleSh_ext>.ysh</PathShAngleSh_ext>
+    <PathShAngleSh_descr>Параметры углового шкафа</PathShAngleSh_descr>
+    <PathShAngleSh_lang>ru</PathShAngleSh_lang>
+    <PathShAntr>C:\Users\VladimirWorkPC\Documents\Bazis\</PathShAntr>
+    <PathShAntr_ext>.ash</PathShAntr_ext>
+    <PathShAntr_descr>Параметры антресоли</PathShAntr_descr>
+    <PathShAntr_lang>ru</PathShAntr_lang>
+    <PathShAngleAn>C:\Users\VladimirWorkPC\Documents\Bazis\</PathShAngleAn>
+    <PathShAngleAn_ext>.yan</PathShAngleAn_ext>
+    <PathShAngleAn_descr>Параметры угловой антресоли</PathShAngleAn_descr>
+    <PathShAngleAn_lang>ru</PathShAngleAn_lang>
+    <PathShKroms>C:\Users\VladimirWorkPC\Documents\Bazis\</PathShKroms>
+    <PathShKroms_ext>.osh</PathShKroms_ext>
+    <PathShKroms_descr>Варианты облицовки кромок</PathShKroms_descr>
+    <PathShKroms_lang>ru</PathShKroms_lang>
+    <PathShBuilds>C:\Users\VladimirWorkPC\Documents\Bazis\</PathShBuilds>
+    <PathShBuilds_ext>.psh</PathShBuilds_ext>
+    <PathShBuilds_descr>Параметры построения</PathShBuilds_descr>
+    <PathShBuilds_lang>ru</PathShBuilds_lang>
+    <PathShPatts>C:\Users\VladimirWorkPC\Documents\Bazis\</PathShPatts>
+    <PathShPatts_ext>.vsh</PathShPatts_ext>
+    <PathShPatts_descr>Внутреннее наполнение шкафа</PathShPatts_descr>
+    <PathShPatts_lang>ru</PathShPatts_lang>
+    <PathScript>C:\Users\VladimirWorkPC\Documents\Bazis\Scripts\</PathScript>
+    <PathScript_ext/>
+    <PathScript_descr>Файлы скриптов</PathScript_descr>
+    <PathScript_lang>ru</PathScript_lang>
+    <SavePaths>Y</SavePaths>
+    <_CUSTOM_/>
+  </Paths>
+  <Colors>
+    <LCSColor>16711935</LCSColor>
+    <LCSSize>1</LCSSize>
+    <CursorColor>Y</CursorColor>
+    <BackgroundColor>16777215</BackgroundColor>
+    <LayerColor>0</LayerColor>
+  </Colors>
+  <Lines>
+    <LineType>1</LineType>
+    <ThinLineThickness>1</ThinLineThickness>
+    <ThickLineThickness>2</ThickLineThickness>
+    <CustomLineThickness>2</CustomLineThickness>
+    <InvisibleLinesType>2</InvisibleLinesType>
+    <LineColor0>65280</LineColor0>
+    <LinesLayerColor0>Y</LinesLayerColor0>
+    <LineColor1>0</LineColor1>
+    <LinesLayerColor1>Y</LinesLayerColor1>
+    <LineColor2>0</LineColor2>
+    <LinesLayerColor2>Y</LinesLayerColor2>
+    <LineColor3>0</LineColor3>
+    <LinesLayerColor3>Y</LinesLayerColor3>
+    <LineColor4>0</LineColor4>
+    <LinesLayerColor4>Y</LinesLayerColor4>
+    <LineColor5>0</LineColor5>
+    <LinesLayerColor5>Y</LinesLayerColor5>
+    <LineColor6>0</LineColor6>
+    <LinesLayerColor6>Y</LinesLayerColor6>
+    <LineColor7>0</LineColor7>
+    <LinesLayerColor7>Y</LinesLayerColor7>
+    <LineColor8>0</LineColor8>
+    <LinesLayerColor8>Y</LinesLayerColor8>
+    <LineColor9>0</LineColor9>
+    <LinesLayerColor9>Y</LinesLayerColor9>
+  </Lines>
+  <Text>
+    <TextHeight>3.5</TextHeight>
+    <Italic>Y</Italic>
+    <TextRestriction>1</TextRestriction>
+    <RowsStep>0</RowsStep>
+    <LineSlope>0</LineSlope>
+    <TextAlignment>0</TextAlignment>
+    <FontName/>
+  </Text>
+  <Drawings>
+    <Sizes>
+      <TextHeight>3.7908578</TextHeight>
+      <FontName/>
+      <Italic>Y</Italic>
+      <ArrowType>4</ArrowType>
+      <ArrowSize>5</ArrowSize>
+      <MethodOfWritingAdditional>0</MethodOfWritingAdditional>
+      <AngleSizeFloat>Y</AngleSizeFloat>
+      <AccuracyOfLinearSize>1</AccuracyOfLinearSize>
+      <AccuracyOfTheAngularSize>1</AccuracyOfTheAngularSize>
+      <AccuracyOfTheAngularSizeNew>1</AccuracyOfTheAngularSizeNew>
+    </Sizes>
+    <Hatch>
+      <ShtrihType>1</ShtrihType>
+      <ShtrihStep>3</ShtrihStep>
+      <ShtrihAngle>45</ShtrihAngle>
+      <LinStr>
+      QgMAAAAAAAAAAAAAAAAAAI==
+      </LinStr>
+    </Hatch>
+    <AutoBinding>
+    GgQAAAAAAAAAAAAAAAAAAA==
+    </AutoBinding>
+    <CursorStep>10</CursorStep>
+    <Steps>10,0
+5,0
+1,0
+0,5
+0,1
+0,05
+0,01
+50,0
+20,0
+</Steps>
+    <Scales>0,1
+0,25
+0,5
+1,0
+1,5
+2
+2,5
+5
+10
+</Scales>
+    <MasGridStep>2
+4
+8
+16
+32
+64
+128
+256
+512
+</MasGridStep>
+    <ShowGrid2D>N</ShowGrid2D>
+    <ShowGrid3D>N</ShowGrid3D>
+    <GridStep2D>10</GridStep2D>
+    <GridStep3D>10</GridStep3D>
+    <GridPointSize>1</GridPointSize>
+    <Scope>.1</Scope>
+    <ZoomFactor>2</ZoomFactor>
+    <RecordWmf>N</RecordWmf>
+    <Ortho>Y</Ortho>
+    <OrthoZone>10</OrthoZone>
+    <OrthoStep>90</OrthoStep>
+    <LayerAvailable>Y</LayerAvailable>
+  </Drawings>
+  <FurnPositions>
+    <StartArtPos>1</StartArtPos>
+    <ArtPosGap>3</ArtPosGap>
+    <ArrangeObjectsFirst>Y</ArrangeObjectsFirst>
+    <ArrangeAssemblies>Y</ArrangeAssemblies>
+    <ArrangeFasteners>Y</ArrangeFasteners>
+    <Separator>.</Separator>
+    <SpaceRepStr>_</SpaceRepStr>
+    <SpecRepStr>_</SpecRepStr>
+    <ReplaceSpace>Y</ReplaceSpace>
+    <ReplaceSpec>Y</ReplaceSpec>
+    <AsmUnitDigitsCount>2</AsmUnitDigitsCount>
+    <ObjDigitsCount>3</ObjDigitsCount>
+    <Compare>
+      <PanelName>Y</PanelName>
+      <PanelHoles>Y</PanelHoles>
+      <PanelHolesDir>Y</PanelHolesDir>
+      <PanelButts>Y</PanelButts>
+      <PanelButtOrder>Y</PanelButtOrder>
+      <PanelCuts>Y</PanelCuts>
+      <PanelPlastics>Y</PanelPlastics>
+      <PanelTexture>Y</PanelTexture>
+      <PanelThickness>Y</PanelThickness>
+      <PanelFaceType>Y</PanelFaceType>
+      <UserProperties>N</UserProperties>
+      <ContinueNumeration>Y</ContinueNumeration>
+      <Hierarchical>Y</Hierarchical>
+      <Accuracy>2</Accuracy>
+      <CompareFromAnotherAssemblyUnit>Y</CompareFromAnotherAssemblyUnit>
+      <MatAttendance>Y</MatAttendance>
+    </Compare>
+  </FurnPositions>
+  <Dialogs/>
+  <ClipboardPasteParams>
+    <ViewStyle>3</ViewStyle>
+    <HideLinesColor>$00C0C0C0</HideLinesColor>
+    <HideLinesStyle>0</HideLinesStyle>
+    <ShowGabaritSizes>Y</ShowGabaritSizes>
+    <DrawPanelsTextureDirection>N</DrawPanelsTextureDirection>
+    <MakeObjectsBlocks>Y</MakeObjectsBlocks>
+    <DrawMstb>.1</DrawMstb>
+    <FastDrawStyle>0</FastDrawStyle>
+    <FastenerScale>1</FastenerScale>
+    <PositionsEnabled>Y</PositionsEnabled>
+    <PositionsType>0</PositionsType>
+    <PositionsForFast>Y</PositionsForFast>
+    <PositionsForDetails>Y</PositionsForDetails>
+    <PositionsForProfile>Y</PositionsForProfile>
+    <PositionsForAsm>Y</PositionsForAsm>
+    <PositionsDeleteDuplicates>Y</PositionsDeleteDuplicates>
+    <PositionsExceptions/>
+    <PositionsOnAxonometry>Y</PositionsOnAxonometry>
+  </ClipboardPasteParams>
+  <SaveToLinesParams>
+    <ViewStyle>3</ViewStyle>
+    <HideLinesColor>$00C0C0C0</HideLinesColor>
+    <HideLinesStyle>0</HideLinesStyle>
+    <ShowGabaritSizes>N</ShowGabaritSizes>
+    <DrawPanelsTextureDirection>N</DrawPanelsTextureDirection>
+    <MakeObjectsBlocks>Y</MakeObjectsBlocks>
+    <DrawMstb>.1</DrawMstb>
+    <FastDrawStyle>0</FastDrawStyle>
+    <FastenerScale>1</FastenerScale>
+    <PositionsEnabled>Y</PositionsEnabled>
+    <PositionsType>0</PositionsType>
+    <PositionsForFast>Y</PositionsForFast>
+    <PositionsForDetails>Y</PositionsForDetails>
+    <PositionsForProfile>Y</PositionsForProfile>
+    <PositionsForAsm>Y</PositionsForAsm>
+    <PositionsDeleteDuplicates>Y</PositionsDeleteDuplicates>
+    <PositionsExceptions/>
+    <PositionsOnAxonometry>Y</PositionsOnAxonometry>
+  </SaveToLinesParams>
+  <PrintModelParams>
+    <ViewStyle>3</ViewStyle>
+    <HideLinesColor>$00C0C0C0</HideLinesColor>
+    <HideLinesStyle>0</HideLinesStyle>
+    <ShowGabaritSizes>Y</ShowGabaritSizes>
+    <DrawPanelsTextureDirection>N</DrawPanelsTextureDirection>
+    <MakeObjectsBlocks>Y</MakeObjectsBlocks>
+    <DrawMstb>.1</DrawMstb>
+    <FastDrawStyle>0</FastDrawStyle>
+    <FastenerScale>1</FastenerScale>
+    <PositionsEnabled>Y</PositionsEnabled>
+    <PositionsType>0</PositionsType>
+    <PositionsForFast>Y</PositionsForFast>
+    <PositionsForDetails>Y</PositionsForDetails>
+    <PositionsForProfile>Y</PositionsForProfile>
+    <PositionsForAsm>Y</PositionsForAsm>
+    <PositionsDeleteDuplicates>Y</PositionsDeleteDuplicates>
+    <PositionsExceptions/>
+    <PositionsOnAxonometry>Y</PositionsOnAxonometry>
+  </PrintModelParams>
+  <ModelTree>
+    <ShowAuxLines>true</ShowAuxLines>
+    <ShowPlanarObjects>true</ShowPlanarObjects>
+    <ShowBlocks>true</ShowBlocks>
+    <ShowAsms>true</ShowAsms>
+    <ShowFasteners>true</ShowFasteners>
+    <ShowBodies>true</ShowBodies>
+    <ShowSchemeBlocks>true</ShowSchemeBlocks>
+    <Flat>false</Flat>
+  </ModelTree>
+  <FormData>
+    <TFormParamsCab>
+      <WindowState>0</WindowState>
+      <Left>910</Left>
+      <Top>339</Top>
+      <Width>740</Width>
+      <Height>721</Height>
+      <SplitterScriptActions1>215</SplitterScriptActions1>
+      <SplitterScriptActions2>144</SplitterScriptActions2>
+      <FrameAttendanceTemplates>
+        <PanelTemplateList>145</PanelTemplateList>
+        <TableViewTemplateColumnName>203</TableViewTemplateColumnName>
+        <TableViewTemplateColumnArt>104</TableViewTemplateColumnArt>
+        <TableViewTemplateColumnCount>76</TableViewTemplateColumnCount>
+      </FrameAttendanceTemplates>
+    </TFormParamsCab>
+    <StringGridPaths>
+      <ColWidths>
+        <Col0>382</Col0>
+        <Col1>346</Col1>
+      </ColWidths>
+    </StringGridPaths>
+    <TFormOutputInfo>
+      <WindowState>0</WindowState>
+      <Left>786</Left>
+      <Top>436</Top>
+      <Width>988</Width>
+      <Height>527</Height>
+    </TFormOutputInfo>
+    <TFormCutMaterialManager>
+      <WindowState>0</WindowState>
+      <Left>706</Left>
+      <Top>400</Top>
+      <Width>1148</Width>
+      <Height>600</Height>
+    </TFormCutMaterialManager>
+    <TFormSettings>
+      <WindowState>0</WindowState>
+      <Left>872</Left>
+      <Top>380</Top>
+      <Width>816</Width>
+      <Height>639</Height>
+    </TFormSettings>
+    <TFormParamsCutting>
+      <WindowState>0</WindowState>
+      <Left>910</Left>
+      <Top>339</Top>
+      <Width>1081</Width>
+      <Height>721</Height>
+      <SplitterScriptActions1>215</SplitterScriptActions1>
+      <SplitterScriptActions2>144</SplitterScriptActions2>
+      <FrameAttendanceTemplates>
+        <PanelTemplateList>145</PanelTemplateList>
+        <TableViewTemplateColumnName>203</TableViewTemplateColumnName>
+        <TableViewTemplateColumnArt>104</TableViewTemplateColumnArt>
+        <TableViewTemplateColumnCount>76</TableViewTemplateColumnCount>
+      </FrameAttendanceTemplates>
+    </TFormParamsCutting>
+  </FormData>
+  <License>
+    <LicenseTypeSelected>Y</LicenseTypeSelected>
+    <LocalLicense>Y</LocalLicense>
+    <Username/>
+    <Password/>
+  </License>
+</Settings>
